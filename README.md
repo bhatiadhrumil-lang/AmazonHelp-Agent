@@ -115,7 +115,7 @@ authoritative intent labels will be human judgments on a 204-candidate sample
 These labels will train/evaluate the final classifier — nothing trains on
 cluster IDs as intents.
 
-**Current progress**: 6 / 204 labelled (annotator `dhrumil`); ~198 remain.
+**Current progress**: 9 / 204 human-labelled (annotator `dhrumil`); 195 remain.
 Progress is shown on every CLI start (`total | completed | remaining`).
 
 **Command** (start or resume; Ctrl+C safe, never duplicates):
@@ -126,12 +126,17 @@ Options: `--limit N` (batch), `--seed`, `--labels-out <path>` (scratch smoke
 tests only — never for real labels).
 
 **Semantics**: the model suggestion (nearest-centroid family + alternatives,
-same provisional model as the agent) is display-only context, marked NOT
-GROUND TRUTH. The annotator decides via **[A]ccept / [C]hoose (numbered
-catalog of the 73 real preliminary families + human-coined list) / [N]ew
-(justified) / [U]ncertain**, then writes primary_goal, routing, verdict etc.
-Accepting records a HUMAN-CONFIRMED label (`suggestion_outcome=accepted`);
-nothing is ever auto-labelled.
+same provisional model as the agent) and the draft MODEL RECOMMENDATION
+(`annotation_draft.csv`) are display-only assistance, marked NOT GROUND TRUTH.
+The annotator decides via **A / C / N / U**:
+A = accept the displayed model recommendation as your human-verified annotation
+(fast path: fields prefilled, concise FINAL REVIEW, then explicit Y/n save);
+C = correct/change to a different existing intent (draft values prefilled as
+editable defaults); N = new intent (justified, notes required);
+U = uncertain/context-dependent (minimal fields).
+Accepting records a HUMAN-CONFIRMED label (`suggestion_outcome=accepted` or
+`corrected` if the accepted intent differs from the raw suggestion,
+plus fresh `annotated_at`); nothing is ever auto-labelled without pressing A+Y.
 
 **Recorded per row** (17 cols in `golden_labels.csv`): all prior fields plus
 `model_suggestion`, `suggestion_outcome` (accepted/corrected/rejected/
@@ -140,13 +145,39 @@ rows have blank auditability fields (honest, not backfilled).
 
 **Validation**: enums via numbered menus; ESCALATE requires reason; CLARIFY
 requires rationale; OOD forces verdict + explanation; new_intent requires
-proposal notes; review screen before save (`-m eval.check_labels` verifies).
+proposal notes; concise FINAL REVIEW before save for A (Y/n), review screen
+before save for C/N/U (`-m eval.check_labels` verifies).
 
 **Second opinions**: `needs_second_opinion` flag per row; ≥40 double-labels
 planned; `-m eval.agreement` reports raw agreement + Cohen's kappa honestly.
 
-**What remains before classifier training**: ~198 annotations → agreement →
+**What remains before classifier training**: 195 annotations → agreement →
 final taxonomy → splits → train/evaluate/calibrate.
+
+**Annotation copilot (model recommendations, NOT ground truth)**: `src/eval/copilot_draft.py`
+writes model-only drafts to `artifacts/evaluation/annotation_draft.csv` (+
+`annotation_progress.json`) and never touches `golden_labels.csv`.
+Current draft: 204 / 204 model recommendations (status=`model_recommendation`).
+Run/resume: `PYTHONPATH=src .venv/bin/python -m eval.copilot_draft [--limit N] [--force]`
+(existing draft IDs are skipped; progress JSON is atomically updated per case;
+CSV uses QUOTE_MINIMAL so commas/quotes/multiline round-trip).
+Human verification: review each draft in `eval.annotate`, confirm/correct, then
+`[s]ave` to create the auditable human label (`suggestion_outcome`,
+`annotated_at` distinguish human decision from model suggestion).
+Validate drafts/human labels with `-m eval.check_labels` (currently VALID, 9 human rows).
+
+**Human-review queue (review order only, never changes labels)**:
+`src/eval/build_review_queue.py` builds `annotation_review_queue.csv` +
+`annotation_review_summary.json` from drafts (204 rows, 9 already_verified, 195 pending).
+Priority rules (deterministic, tie-break candidate_id):
+P5 taxonomy/ambiguity attention (ambiguity/ood/verdict ambiguous,new_intent,merge,split,context_dependent);
+P4 needs_second_opinion=yes; P3 confidence LOW; P2 MEDIUM/fallback;
+P1 HIGH+fits+unambiguous+not ood+no second opinion (fastest first).
+`eval.annotate --annotator dhrumil` follows this queue when present and shows
+MODEL RECOMMENDATION (intent/confidence/routing/why/alternatives) alongside the
+provisional MODEL SUGGESTION; human must still explicitly A/C/N/U + [s]ave.
+Human autosave is append+flush with validation, duplicate (candidate,annotator)
+prevention, and Ctrl+C-safe resume. Model drafts are never auto-approved as ground truth.
 
 ## Current status (Phase 3 — validation & classifier, IN PROGRESS)
 

@@ -1,0 +1,27 @@
+{
+  "total_candidates": 204,
+  "already_verified": 9,
+  "pending": 195,
+  "by_priority": {
+    "1": 53,
+    "2": 15,
+    "4": 74,
+    "5": 62
+  },
+  "by_confidence": {
+    "HIGH": 53,
+    "MEDIUM": 36,
+    "LOW": 115
+  },
+  "by_verdict": {
+    "fits": 176,
+    "ambiguous": 14,
+    "ood": 14
+  },
+  "ambiguity_true": 48,
+  "ood_true": 14,
+  "second_opinion_yes": 122,
+  "generated_at": "2026-09-12T13:38:11.317329+00:00",
+  "note": "REVIEW ORDER ONLY \u2014 model recommendations are not human ground truth.",
+  "priority_rules": "P5: ambiguity/ood/verdict in ambiguous,new_intent,merge,split,context_dependent; P4: needs_second_opinion=yes; P3: confidence LOW; P2: MEDIUM/fallback; P1: HIGH+fits+unambiguous+not ood+no second opinion; tie-break candidate_id."
+}

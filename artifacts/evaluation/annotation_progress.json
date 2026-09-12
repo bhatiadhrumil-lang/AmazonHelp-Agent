@@ -1,0 +1,10 @@
+{
+  "total_candidates": 204,
+  "draft_completed": 204,
+  "remaining": 0,
+  "last_candidate_id": "GC-204",
+  "updated_at": "2026-09-12T13:31:21.670034+00:00",
+  "draft_file": "annotation_draft.csv",
+  "golden_labels_file": "golden_labels.csv",
+  "note": "MODEL RECOMMENDATIONS ONLY \u2014 not human ground truth."
+}
