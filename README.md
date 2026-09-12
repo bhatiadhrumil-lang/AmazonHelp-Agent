@@ -87,7 +87,7 @@ Requires Python 3.12 (`uv` recommended; system Python here is 3.14 — don't use
 
 ```bash
 uv sync                          # creates .venv, installs pinned deps
-.venv/bin/pytest tests/          # 20 tests
+.venv/bin/pytest tests/          # 44 tests (20 discovery + 13 agent + 11 eval)
 ```
 
 Reproduce the audit and pipeline (exact commands in `REPRODUCIBILITY.md`):
@@ -97,7 +97,78 @@ Reproduce the audit and pipeline (exact commands in `REPRODUCIBILITY.md`):
 .venv/bin/python src/data/conversation_quality_audit.py archive.zip \
   --out artifacts/conversation_audit/full_run_fixed
 # 1B/1C/1D: see REPRODUCIBILITY.md §2 and scripts/*.py (each persists configs)
+# Phase 2A agent demo:
+PYTHONPATH=src .venv/bin/python -m agent.cli --message "Where is my order?"
+# Phase 3 golden-candidate sampling (no labels assigned):
+PYTHONPATH=src .venv/bin/python -m eval.sampling
+# Phase 3 annotation (human labels golden_labels.csv):
+PYTHONPATH=src .venv/bin/python -m eval.annotate --help
+# Phase 3 intent evaluation (once golden_labels.csv exists):
+PYTHONPATH=src .venv/bin/python -m eval.run_intent_eval
 ```
+
+## Human Golden-Set Annotation (workflow v2)
+
+**Why it exists**: the 203 HDBSCAN clusters are NOT ground truth. The only
+authoritative intent labels will be human judgments on a 204-candidate sample
+(`artifacts/evaluation/golden_candidates.csv`, 12-stratum, seed-documented).
+These labels will train/evaluate the final classifier — nothing trains on
+cluster IDs as intents.
+
+**Current progress**: 6 / 204 labelled (annotator `dhrumil`); ~198 remain.
+Progress is shown on every CLI start (`total | completed | remaining`).
+
+**Command** (start or resume; Ctrl+C safe, never duplicates):
+```bash
+PYTHONPATH=src .venv/bin/python -m eval.annotate --annotator <name>
+```
+Options: `--limit N` (batch), `--seed`, `--labels-out <path>` (scratch smoke
+tests only — never for real labels).
+
+**Semantics**: the model suggestion (nearest-centroid family + alternatives,
+same provisional model as the agent) is display-only context, marked NOT
+GROUND TRUTH. The annotator decides via **[A]ccept / [C]hoose (numbered
+catalog of the 73 real preliminary families + human-coined list) / [N]ew
+(justified) / [U]ncertain**, then writes primary_goal, routing, verdict etc.
+Accepting records a HUMAN-CONFIRMED label (`suggestion_outcome=accepted`);
+nothing is ever auto-labelled.
+
+**Recorded per row** (17 cols in `golden_labels.csv`): all prior fields plus
+`model_suggestion`, `suggestion_outcome` (accepted/corrected/rejected/
+uncertain), `annotated_at` (UTC). `candidate_id` doubles as case_id. Pre-v2
+rows have blank auditability fields (honest, not backfilled).
+
+**Validation**: enums via numbered menus; ESCALATE requires reason; CLARIFY
+requires rationale; OOD forces verdict + explanation; new_intent requires
+proposal notes; review screen before save (`-m eval.check_labels` verifies).
+
+**Second opinions**: `needs_second_opinion` flag per row; ≥40 double-labels
+planned; `-m eval.agreement` reports raw agreement + Cohen's kappa honestly.
+
+**What remains before classifier training**: ~198 annotations → agreement →
+final taxonomy → splits → train/evaluate/calibrate.
+
+## Current status (Phase 3 — validation & classifier, IN PROGRESS)
+
+- **Golden candidates**: `artifacts/evaluation/golden_candidates.csv`
+  (204 rows, 12-stratum active-learning-style sample, seed-documented;
+  label fields intentionally absent).
+- **Human labeling**: BLOCKED — requires a human annotator with
+  `artifacts/evaluation/LABELING_INSTRUCTIONS.md` (`PYTHONPATH=src
+  .venv/bin/python -m eval.annotate --annotator <name>` writes validated
+  rows to `golden_labels.csv`). No labels fabricated.
+- **Built and tested (awaiting labels)**: annotation schema + disagreement
+  codes, IAA calculator (raw + Cohen's kappa, ≥40 double-labels target),
+  final-taxonomy builder, conversation-level splitter (leakage-checked),
+  kNN + balanced-LogReg (+optional MLP) baselines on frozen 384D embeddings,
+  sigmoid calibration + ECE/Brier, OOD wrapper (prob/margin/distance),
+  context-vs-solo experiment, error-analysis builder, eval harness
+  (`-m eval.run_intent_eval`), `ValidatedClassifier` drop-in behind the
+  existing `IntentClassifier` interface, router OOD-flag plumbing.
+- **Final taxonomy / trained classifier / calibration**: code paths built
+  and pipeline-smoke-tested on synthetic labels in /tmp only (never reported
+  as results); real training awaits human labels. Nothing trains on HDBSCAN
+  labels as ground truth.
 
 ## Notes & constraints
 

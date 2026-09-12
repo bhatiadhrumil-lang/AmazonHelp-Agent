@@ -1,0 +1,8 @@
+{
+  "backend": "sklearn_brute_cosine",
+  "model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "top_k": 5,
+  "normalize": true,
+  "n_cases": 93171,
+  "dim": 384
+}
