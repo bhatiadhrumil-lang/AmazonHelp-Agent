@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+56,210491,210519,1.0,0.0,"@AmazonHelp Please send me link,we don't get link from your side,please provide us and worl fast"
+56,644026,474336,1.0,0.0,@AmazonHelp Provide me the link here
+56,1744048,1744042,1.0,0.0,@AmazonHelp please share link again.
+56,81048,81054,1.0,0.0,@AmazonHelp Plz send me the link
+56,2652385,2652371,1.0,0.0,"@AmazonHelp Filled the link out, thanks."
+56,2290046,2116190,1.0,0.0,@AmazonHelp Send me the link again
+56,2884928,2884931,1.0,0.0,@AmazonHelp That already filled in that link.
+56,737151,737147,1.0,0.0,@AmazonHelp Send the link again I will update details

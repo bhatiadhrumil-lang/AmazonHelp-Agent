@@ -1,0 +1,13 @@
+{
+  "experiment": "exp_8d_50_20",
+  "umap_dim": 8,
+  "min_cluster_size": 50,
+  "min_samples": 20,
+  "n_clusters": 2,
+  "n_noise": 0,
+  "noise_pct": 0.0,
+  "largest": 12199,
+  "median_size": 6133.5,
+  "umap_s": 32.3,
+  "hdbscan_s": 0.9
+}

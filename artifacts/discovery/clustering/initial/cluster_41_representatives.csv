@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+41,313655,313653,1.0,0.0,@AmazonHelp Now check it.
+41,21474,19137,1.0,0.0,@AmazonHelp You can check it
+41,2669972,2669986,1.0,0.0,@AmazonHelp Ouï mais vérifiez quoi ?
+41,2318582,2318591,1.0,0.0,@AmazonHelp Alors cette vérification de dossier ? :))
+41,652056,652068,1.0,0.0,@AmazonHelp Pouvez-vous faire une vérification ? S'il vous plaît ?
+41,2312500,2312501,1.0,0.0,@AmazonHelp I will check and get back to yiy
+41,1553268,1553275,1.0,0.0,@AmazonHelp Ok il check
+41,183518,183522,1.0,0.0,@AmazonHelp Let me check

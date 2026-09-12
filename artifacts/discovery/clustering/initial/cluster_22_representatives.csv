@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+22,2238103,2238101,0.9555707907279904,0.0444292092720096,@AmazonHelp I've had it sorted thanks
+22,1764566,1764567,1.0,0.0,@AmazonHelp Seems to have been sorted today. Big thanks to Lesley at Customer Services.
+22,1704096,1704097,1.0,0.0,"@AmazonHelp Thank you for your reply I managed to ring and get it sorted, thank you again :)"
+22,2622579,2622577,0.942338776850794,0.057661223149205944,"@AmazonHelp Already got it sorted, thanks 👏🏻"
+22,2902581,2902582,0.9069407822603468,0.09305921773965316,@AmazonHelp No vinay has sorted it. Thanks
+22,2902642,2902640,1.0,0.0,"@AmazonHelp Yep done that now. Thanks for quick response, let’s hope I can sort it"
+22,714176,714179,0.8003852117599953,0.19961478824000461,"@AmazonHelp Thanks for the help, I got it all sorted out, thank you."
+22,2356701,2356703,0.7468570112923827,0.25314298870761737,@AmazonHelp Can I have this sorted out ASAP PLEASE

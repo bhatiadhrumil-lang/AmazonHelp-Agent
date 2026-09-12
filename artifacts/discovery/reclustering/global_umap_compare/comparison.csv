@@ -1,0 +1,4 @@
+experiment,umap_dim,min_cluster_size,min_samples,n_clusters,n_noise,noise_pct,note,largest,median_size,umap_s,hdbscan_s
+baseline_8d_30_10,8,30,10,203,49621,53.26,"original Phase 1B artifacts, not recomputed",,,,
+dim_15,15,30,10,205,48690,52.26,"fresh run, same embeddings",12271.0,74.0,260.4,19.9
+dim_20,20,30,10,195,48613,52.18,"fresh run, same embeddings",12271.0,78.0,249.9,28.8

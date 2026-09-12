@@ -1,0 +1,15 @@
+{
+  "input_embeddings": "artifacts/discovery/embeddings/smoke_500/embeddings.npy",
+  "input_embeddings_sha256": "9acf5be55cd001d21d0eb0c9050a855fcd790f984e65f5114f2f93aa517330bd",
+  "input_embeddings_shape": [
+    500,
+    384
+  ],
+  "umap": {
+    "metric": "cosine",
+    "min_dist": 0.1,
+    "n_components": 8,
+    "n_neighbors": 30,
+    "random_state": 42
+  }
+}

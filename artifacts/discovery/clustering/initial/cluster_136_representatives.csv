@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+136,2457154,2457155,1.0,0.0,@AmazonHelp I have sent a detailed email to customer service - please check and resolve ASAP
+136,944904,944896,1.0,0.0,@AmazonHelp My email address is __email__ I have already raised the issue with customer care on chat yesterday and phone today
+136,2901100,2901102,1.0,0.0,"@AmazonHelp That’s correct Liz. I sent a final email to customer services, the last few said they would reply to me, none have, just need a reply to it please"
+136,2300062,2300046,1.0,0.0,@AmazonHelp I have emailed you with details via the customer services in 'my orders'
+136,257182,257183,1.0,0.0,@AmazonHelp I got an email from customer service. Thank you!
+136,518805,518808,1.0,0.0,"@AmazonHelp I have submitted an email to your customer service, thank you."
+136,1223613,1223614,1.0,0.0,@AmazonHelp I went through customer service menu and sent email. Thank you.
+136,1603813,1603814,1.0,0.0,"@AmazonHelp yes sent mail to your customer care, need to resolve earlier"

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+95,954290,924533,1.0,0.0,@AmazonHelp NOT HELPFUL
+95,205939,205973,1.0,0.0,"@AmazonHelp appreciated, but doesn't really help."
+95,183601,180315,1.0,0.0,@AmazonHelp But that is not helpful
+95,2956994,2957000,1.0,0.0,"@AmazonHelp Again, not helpful"
+95,2929603,2885731,1.0,0.0,@AmazonHelp Ça ne m'aide pas vraiment
+95,1156744,1156745,1.0,0.0,@AmazonHelp That does not help.
+95,1023619,1023620,1.0,0.0,@AmazonHelp Thanks for your prompt response but it certainly did not help
+95,332022,332010,1.0,0.0,@AmazonHelp This is not helping.

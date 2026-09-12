@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+161,1331203,1331195,1.0,0.0,@AmazonHelp Ok merci. Comment puis je les contacter ?
+161,2139301,2139299,1.0,0.0,"@AmazonHelp If I’m not in the US right now, is there a way to contact them?"
+161,1033093,1033084,1.0,0.0,@AmazonHelp How would I reach them?
+161,1041126,1041130,1.0,0.0,@AmazonHelp Ou puis-je les contacter ?
+161,2530738,2530704,1.0,0.0,@AmazonHelp Donde me pongo en contacto con ellos?
+161,1141880,1141881,1.0,0.0,"@amazonhelp Sorry, do you mean I have to contact them?"
+161,932293,932290,1.0,0.0,"@AmazonHelp Am I able to contact them directly? I've received an email with ""Please don't hesitate to contact us"" but I can't contact them!"
+161,2919890,2919891,1.0,0.0,@AmazonHelp How can I speak to costumer service reps based in the United States?

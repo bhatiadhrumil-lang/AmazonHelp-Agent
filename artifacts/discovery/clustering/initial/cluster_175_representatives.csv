@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+175,910718,910725,1.0,0.0,@AmazonHelp Yes same day
+175,281019,281012,0.9887159945490293,0.011284005450970748,@AmazonHelp Yep yesterday then today
+175,2980878,2980879,1.0,0.0,@AmazonHelp Today this morning
+175,2632930,2632928,1.0,0.0,@AmazonHelp Today :)
+175,91366,91376,0.7820001317133489,0.21799986828665113,@AmazonHelp Hier matin
+175,1247279,1247276,1.0,0.0,@AmazonHelp Yes it was today.
+175,320339,320341,0.9407393857932426,0.059260614206757406,@AmazonHelp Since morning
+175,2073928,2073956,1.0,0.0,@AmazonHelp Yes this morning

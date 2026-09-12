@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+72,1292018,1292019,1.0,0.0,"@AmazonHelp Okay, thanks – I'll try that."
+72,637035,637053,1.0,0.0,@AmazonHelp Ok. Will try this. Thanks
+72,2690672,2690679,1.0,0.0,@AmazonHelp Ok. Well… I’ll keep on trying. Thanks.
+72,977906,977907,0.806602239789296,0.19339776021070398,"@AmazonHelp Wird ausprobiert, danke!"
+72,473257,473266,0.8878840707774263,0.11211592922257374,@AmazonHelp Ok. I will try again. Thanks
+72,1137859,884873,1.0,0.0,@AmazonHelp Sure will try it..get back to you..thank you
+72,2668957,2668958,1.0,0.0,@AmazonHelp will try it. Thanks
+72,2847309,2847310,1.0,0.0,@AmazonHelp Ok I'm going to try ot. Thanks

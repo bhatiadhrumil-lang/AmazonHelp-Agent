@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+132,1112720,1112718,0.7011393293874536,0.2988606706125464,"@AmazonHelp okay, thank you for taking time to let me know!"
+132,440423,440424,0.7104680560477429,0.2895319439522572,"@AmazonHelp Ooh thanks, good to know!"
+132,2734222,2734225,0.7809754874913782,0.2190245125086218,"@AmazonHelp Ok, obrigada!"
+132,2779155,2779153,0.7367169140603556,0.2632830859396444,@AmazonHelp ok thanks :)
+132,1592887,1592888,0.8442137431763171,0.15578625682368283,@AmazonHelp All set! Thanks
+132,823578,823580,1.0,0.0,@AmazonHelp Okay! Thanks for letting me know!
+132,1300138,1300139,0.8641521383285524,0.13584786167144758,@AmazonHelp Gotcha ok. Thanks!
+132,2410550,2410551,1.0,0.0,@AmazonHelp okays thanks!

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+87,2536455,2536453,1.0,0.0,@AmazonHelp Done already
+87,1370134,1370135,1.0,0.0,@AmazonHelp I already was done
+87,1740737,1740735,1.0,0.0,@AmazonHelp 4X already
+87,418776,418777,1.0,0.0,@AmazonHelp Already handled lol
+87,2278931,2278929,1.0,0.0,@AmazonHelp Yes already done
+87,1223032,1223037,1.0,0.0,@AmazonHelp Already done once
+87,1872070,1872071,0.9590353780046672,0.04096462199533277,@AmazonHelp already done this
+87,1424887,26979,0.7098613287062007,0.2901386712937993,@AmazonHelp already done now need result

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+37,530805,530811,0.9858800289464441,0.014119971053555846,@AmazonHelp El SAT en España es lamentable
+37,1384268,1384266,1.0,0.0,@AmazonHelp Hablamos de Sevilla capital...
+37,1345918,1345919,0.838075763306423,0.16192423669357706,"@AmazonHelp Livraison en point relais, à la boulangerie Richter sur Montpellier"
+37,231539,231540,0.9407670985162441,0.05923290148375598,"@AmazonHelp Gracias por la rapidez en la respuesta, no aparecen vacantes en Sevilla, muchas gracias"
+37,1863717,1863718,1.0,0.0,"@AmazonHelp Un colgante de plata de un gatito 😍 El servicio premium de España es muy bueno, merece la pena tener los productos en 1 día o 2. Gracias! 🎁"
+37,2721705,2721712,1.0,0.0,"@AmazonHelp Necesito un tlf soporte España! Y no encuentro por ninguna parte, por eso os he escrito por aquí"
+37,815584,815582,1.0,0.0,@AmazonHelp Spain (.es)
+37,2828730,2828732,1.0,0.0,@AmazonHelp No está disponible en España?

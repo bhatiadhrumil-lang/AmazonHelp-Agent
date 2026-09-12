@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+149,1590613,1590614,1.0,0.0,@AmazonHelp Thank you the item was not damaged. The package was shipped with AMZL US.
+149,2605671,2605672,1.0,0.0,@AmazonHelp It was shipped with AMZL US
+149,2971893,2971894,1.0,0.0,"@AmazonHelp It just says shipped with AMZL US. It has happened a few times, happening more frequently recently."
+149,936700,936701,1.0,0.0,"@AmazonHelp Bought from BB cosmetic, shipped by AMZL US"
+149,1227032,1227030,1.0,0.0,@AmazonHelp Yes. Has been shipped via AMZL US.
+149,863824,863826,1.0,0.0,"@AmazonHelp Shipped with AMZL US. It's no big deal, but I'm pretty worried about this happening during the holidays."
+149,2795350,2795363,1.0,0.0,@AmazonHelp It just says shipped with AMZL US?
+149,458943,458947,1.0,0.0,@AmazonHelp Shipped with AMZL US it what it says. Always have issues when shipped like that. Usps/ups never have issues.

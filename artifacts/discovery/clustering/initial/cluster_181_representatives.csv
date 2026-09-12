@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+181,1427852,343895,1.0,0.1608196444040546,@AmazonHelp Ich habe nun eine Zurücksendung angefordert per Hermes aber ich habe ausgewählt das ich es auf meine Kreditkarte möchte aber bitte nichts
+181,1013777,1013771,1.0,0.2331326714393822,"@AmazonHelp found it and cancelled, in the meantime we thought the card had been hacked, and got a new debit card."
+181,2303884,2303900,1.0,0.12479106253315753,"@AmazonHelp No. Each rep told me they basically had no idea why it was doing this and that it must be a problem oh my bank's end. But it's not. I use this card multiple per day, online and off."
+181,2731137,2731142,1.0,0.14335808676604866,@AmazonHelp I've just taken my credit card details off so hopefully won't be able to get charged for things I'm not ordering
+181,1279799,1279796,1.0,0.12479106253315753,"@AmazonHelp I see my current credit card on file (plus two old expired ones), and I have a chance to add a new method."
+181,972626,972641,1.0,0.17730618661797287,@AmazonHelp The bank DIDN'T decline the card. Look at the image. See that big yellow bar on the right? The bank authorized it. Your system failed..
+181,1959475,1959467,1.0,0.12479106253315753,@AmazonHelp Ok so i used my maybank visa debit card and have tried FOUR times to pay using it. The same error message was sent to my email each time though i have used this same card to pre order another book. Whats actually the problem here?
+181,2954536,2954539,1.0,0.1342233379197759,"@AmazonHelp so i can't get something from someone's wishlist if my payment method isn't a credit card? :( okay, thanks"

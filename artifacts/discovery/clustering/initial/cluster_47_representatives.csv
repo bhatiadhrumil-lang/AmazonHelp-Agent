@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+47,1676625,1676621,1.0,0.0,@AmazonHelp I m not sure product will be delivered today or not. Let see what is going to happen your agent will come with same old story or new story
+47,422007,422005,1.0,0.0,@AmazonHelp Am i getting my product delivered today?
+47,1545460,1545457,1.0,0.0,@AmazonHelp Well. Then you are kindly requested to expedite the process and arrange to get the product delivered as early as possible!
+47,2281453,2281456,1.0,0.0,"@AmazonHelp I have DM my query, please make sure the products get delivered on time by 9-10 am morning tomorrow 😊."
+47,130848,130869,1.0,0.0,"@AmazonHelp Is there any status of my product, it's now more than 72 hours"
+47,1043693,1043727,1.0,0.0,@AmazonHelp @115821 @115850 Since Sunday you are working on this. Haven't you got update yet. When will I get my product. How much should I wait
+47,1786140,1786141,0.9848645076969179,0.015135492303082067,@AmazonHelp Already done! The pick up is tomorrow. I hope the right product is delivered this time. Kindly do it asap @115850
+47,1043654,1043727,1.0,0.0,@AmazonHelp @115821 @115850 Can you tell me if I can expect delivery of my product today?

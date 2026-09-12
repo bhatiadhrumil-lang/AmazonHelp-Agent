@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+158,983828,983831,1.0,0.0,@AmazonHelp Still waiting your response ? ???????????????
+158,298436,298437,1.0,0.0,@AmazonHelp Waiting for reply
+158,1220884,1220885,1.0,0.0,@AmazonHelp Still waiting for reply from your side
+158,301064,301050,1.0,0.0,@AmazonHelp Still waiting for an answer. Reached out to whom?
+158,593372,593373,1.0,0.0,@AmazonHelp I am still waiting for your reply
+158,856021,856047,1.0,0.0,"@AmazonHelp Nope, Just waiting for a response."
+158,1274822,1274823,1.0,0.0,@AmazonHelp Waiting for your response
+158,1511946,1511965,1.0,0.0,@AmazonHelp yea i await ur response

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+147,1519864,1519862,1.0,0.0,@AmazonHelp It says UPS
+147,886156,886150,1.0,0.0,@AmazonHelp It appears to be UPS
+147,56853,56854,1.0,0.0,@AmazonHelp UPS surepost
+147,555293,555291,1.0,0.0,@AmazonHelp UPS Sure Post
+147,1247750,1247754,1.0,0.0,"@AmazonHelp UPS —the company is called Looseplus, I believe."
+147,2320947,2320949,1.0,0.0,@AmazonHelp plz plz give me an option for UPS only
+147,296413,296411,1.0,0.0,@AmazonHelp UPS &amp; no
+147,1811238,1811236,1.0,0.0,@AmazonHelp I was told it was UPSP.

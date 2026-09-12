@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+73,1936551,1936552,1.0,0.0,@AmazonHelp I have replied on that many times
+73,1223000,1223037,0.973183690539672,0.026816309460327977,@AmazonHelp I have replied at least a dozen times... You asking me tovreply will not change ny claim
+73,69910,69933,1.0,0.0,@AmazonHelp I’ve sent in the reply.
+73,319414,319453,0.9950141071994666,0.004985892800533432,@AmazonHelp Which one I m confused. Haven’t you seen the chain of replies I have received today. Pls be specific.
+73,1141903,1141890,1.0,0.0,@AmazonHelp Same reply I am hearing from last 15 days.
+73,2154068,2154083,0.9801046357591385,0.019895364240861444,@AmazonHelp I have replied and given details
+73,206089,206090,1.0,0.0,@AmazonHelp I have replied on the form.
+73,30513,30544,1.0,0.0,@AmazonHelp I have replied as well

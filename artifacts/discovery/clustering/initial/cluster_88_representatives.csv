@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+88,322598,322599,1.0,0.0,@AmazonHelp No solution to the problem yet. Not satisfied at all
+88,1085067,1085076,1.0,0.0,@AmazonHelp Still problem is not solved
+88,1129348,1129346,1.0,0.0,@AmazonHelp No and my problem remains unsolved
+88,1081770,1081780,1.0,0.0,@AmazonHelp Problem is STILL unresolved.
+88,979620,979609,1.0,0.0,@AmazonHelp Yes but problem has not been solved yet more than 48 bs hrs But no solution
+88,857753,851605,1.0,0.0,@AmazonHelp still Ishu is not solved
+88,422231,422234,1.0,0.0,@AmazonHelp Done but still no solution?
+88,567584,567587,1.0,0.0,"@AmazonHelp Not fully resolved, no."

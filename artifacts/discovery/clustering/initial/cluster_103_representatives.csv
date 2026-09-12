@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+103,1157231,1157232,0.9862878992335616,0.341888627680113,"@AmazonHelp I've tried everything. Factory reset etc. It's completely random, drops signal at any time on any day. Almost unusable now."
+103,2529294,2529295,1.0,0.039765508731261445,@AmazonHelp I turned that off... the navigational support off.. everything off... restarted it and it still talks every time I touch the remote
+103,2662725,2662726,0.892401484342891,0.4045353633785925,@AmazonHelp I guess maybe my internet was bugging out for a bit. It's working now!
+103,2107252,2107264,1.0,0.0,"@AmazonHelp No, it hasn't been dispatched. I tried that and it just keeps going back to the home screen"
+103,317479,317480,1.0,0.0,@AmazonHelp No..I've followed all instruction...router off etc... still stuck in reboot cycle
+103,2451649,2451650,0.8989204499550708,0.4001855123782186,@AmazonHelp Every time we use it recently we have to reset it at least once or twice because it freezes up or keeps kicking itself off the internet
+103,2401460,2401457,1.0,0.0,"@AmazonHelp It has issues like heating up fast , fingerprint sensor, getting restart by it self"
+103,2570098,2570099,1.0,0.0,@AmazonHelp it just keeps restarting constantly

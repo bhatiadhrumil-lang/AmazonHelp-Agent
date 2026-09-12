@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+3,408793,408792,1.0,0.0,@AmazonHelp Thank you
+3,388027,388028,1.0,0.0,@AmazonHelp Thank you
+3,382880,382878,1.0,0.0,@AmazonHelp Thank you
+3,382809,382810,1.0,0.0,@AmazonHelp Thank you
+3,434524,434516,1.0,0.0,@AmazonHelp Thank you
+3,472435,472424,1.0,0.0,@AmazonHelp Thank you
+3,667735,667736,1.0,0.0,@AmazonHelp Thank you
+3,675251,675252,1.0,0.0,@AmazonHelp Thank you

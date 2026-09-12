@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+142,96787,96784,1.0,0.0,@AmazonHelp As I have told you before they do not connect to an agent without placing an order. I can send you the audio clip for confirmation
+142,180905,180913,1.0,0.0,@AmazonHelp @115850 any way to speak to an agent and get pleased with some false assurances?
+142,930423,930428,1.0,0.0,"@AmazonHelp Thanks - I already did the whole chat with an agent, didn't make anything easier - just going to accept the issue and wait for itemtomorrow"
+142,631640,631641,1.0,0.0,"@AmazonHelp None!! Your agent submitted a report before we finished our conversation. When I asked to place a fraud alert on my account, she seemed lost and confused, promising someone would call me but when I asked what phone will they call me on she couldn’t say."
+142,2793045,2793046,1.0,0.0,@AmazonHelp Called 3 times. Extremely difficult to understand all 3 agents. One agent seemed completely clueless. I was having a problem w/past order.
+142,2104274,2104275,0.9248996707078934,0.07510032929210662,@AmazonHelp I asked the agent
+142,1254563,1254559,0.9158048316874844,0.08419516831251563,@AmazonHelp No. I got frustrated with the agent after ~15 minutes. I sent the email ~30 minutes ago.
+142,244136,244132,1.0,0.0,"@AmazonHelp I'm on livechat with an agent now. Just getting the ""sorry, won't happen again"" line, when it's happened four times in a row!"

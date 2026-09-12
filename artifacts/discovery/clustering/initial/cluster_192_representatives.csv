@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+192,2416111,2416112,1.0,0.0,@AmazonHelp It says it will be delivered today. It's been saying that since Friday so I don't really believe it
+192,179612,179616,1.0,0.0,@AmazonHelp It says it’s being delivered tomorrow x
+192,2576957,2576958,0.9301952533667479,0.06980474663325208,"@AmazonHelp Yeah, it was supposed to be delivered today and now it says they don’t know when they’ll deliver it because there was a problem 🙃"
+192,11593,11594,0.9301952533667479,0.06980474663325208,@AmazonHelp Done that. Was told I would definitely have it by 9pm yesterday &amp; it's still not been delivered!!!!
+192,1326895,1326893,1.0,0.0,@AmazonHelp I was told it will be delivered today by 9 PM !
+192,2437254,2437252,1.0,0.0,@AmazonHelp Says it was delivered Saturday. I'll check and see if they drop it off tomorrow.
+192,2721717,2721718,0.970071445600874,0.02992855439912595,@AmazonHelp It said it was going to be delivered by 8pm today. I even spoke to someone on the online chat a few weeks ago who also reassured me I would receive this today
+192,559882,559883,1.0,0.0,@AmazonHelp No it was due to be delivered yesterday the 2nd of December. I wouldn’t have tweeted if it wasn’t due until today 3rd would I???

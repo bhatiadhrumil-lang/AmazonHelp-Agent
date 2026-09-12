@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+54,2781887,2781889,1.0,0.0,@AmazonHelp It's called Link
+54,197637,197649,1.0,0.0,@AmazonHelp Where is the link????????????
+54,1007017,1007015,1.0,0.0,@AmazonHelp Where is the link ?
+54,914801,914802,1.0,0.0,@AmazonHelp What use is that link precisely?
+54,956252,956254,1.0,0.0,@AmazonHelp What link ?
+54,25843,25839,1.0,0.0,"@AmazonHelp I'm not sure I know what link you mean, I can't seem to find one!"
+54,1762297,1762293,1.0,0.0,@AmazonHelp ok thanks. What is FR? Where can I find the link?
+54,2509237,2509234,1.0,0.0,"@AmazonHelp ""with the link provided by SP"" - What is 'SP'?"

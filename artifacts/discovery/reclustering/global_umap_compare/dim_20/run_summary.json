@@ -1,0 +1,13 @@
+{
+  "experiment": "dim_20",
+  "umap_dim": 20,
+  "min_cluster_size": 30,
+  "min_samples": 10,
+  "n_clusters": 195,
+  "n_noise": 48613,
+  "noise_pct": 52.18,
+  "largest": 12271,
+  "median_size": 78.0,
+  "umap_s": 249.9,
+  "hdbscan_s": 28.8
+}

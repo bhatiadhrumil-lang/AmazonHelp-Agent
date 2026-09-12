@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+191,927588,927590,0.9736255606346416,0.02637443936535841,@AmazonHelp What's ur email id on which I should write my problem
+191,1905605,1905606,0.8811490775380472,0.11885092246195286,@AmazonHelp Everything related to the following email id :- __email__
+191,33248,33231,0.8112448869822577,0.18875511301774228,"@AmazonHelp Nice! 1st email was sent to my registered id and then other ones in app, fooling around here n there...slow claps"
+191,605167,605168,0.8827078042968542,0.11729219570314572,@AmazonHelp Mon email : __email__
+191,2884904,2884906,0.8944790700280777,0.1055209299719223,@AmazonHelp To which email adderess shall i send the email in italian? I can write in italian i just need the right email address that ‘ll help
+191,2448261,2448263,1.0,0.0,@AmazonHelp I forward it to __email__
+191,2260735,2260737,1.0,0.0,@AmazonHelp __email__ is the email
+191,907016,907023,1.0,0.0,@AmazonHelp My mail I'd __email__

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+93,1830683,1830681,1.0,0.0,"@AmazonHelp yes, i have"
+93,1626620,1626326,1.0,0.0,@AmazonHelp yes. I have raised.
+93,29500,29510,1.0,0.0,@AmazonHelp Of course I have!
+93,665389,665401,0.9966808105785507,0.0033191894214492325,@AmazonHelp I have yes. No email anywhere
+93,562896,562899,0.9537000579573282,0.04629994204267187,@AmazonHelp Yes I have! Thx. Still late.
+93,2585553,2585554,1.0,0.0,@AmazonHelp Yes I have.
+93,1661490,1661482,1.0,0.0,@AmazonHelp I have indeed.
+93,641652,641653,1.0,0.0,@AmazonHelp Yes I have

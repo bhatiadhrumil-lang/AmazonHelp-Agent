@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+173,2405232,2405234,1.0,0.10455938368126766,@AmazonHelp 14 minutes now.
+173,812430,812426,0.897673196003574,0.20703661855730476,@AmazonHelp 8 days is slightly ?
+173,388000,387998,1.0,0.0,@AmazonHelp How much time it gonna take more? It's already two days.
+173,2405231,2405234,0.9086820343081295,0.1973119150832561,@AmazonHelp 15 mins now.
+173,2852128,2852131,1.0,0.053217008468158696,@AmazonHelp sorry 16 days
+173,1127362,1127368,1.0,0.053217008468158696,"@AmazonHelp Sorry, I don't know. approx 12 hrs but that is a rough guess."
+173,927499,234205,1.0,0.0,"@AmazonHelp Not one, but two. Within a span of 10 days"
+173,1406581,1406585,1.0,0.053217008468158696,@AmazonHelp In the next 25 mins

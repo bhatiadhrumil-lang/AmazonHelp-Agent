@@ -1,0 +1,25 @@
+possible_parent_intent,kind,n_clusters,n_points,member_families,member_clusters,share_of_clustered
+Needs re-clustering,contextual,1,12267,megacluster_unclear,7,0.2817
+Delivery & shipping,intent,39,7079,carrier_unreachable;carrier_unreachable;delivery_carrier;delivery_carrier;delivery_carrier;delivery_carrier;delivery_carrier;delivery_carrier;delivery_carrier;delivery_carrier;delivery_carrier;delivery_date_change;delivery_delay;delivery_delay;delivery_delay;delivery_delay;delivery_delay;delivery_delay;delivery_driver;delivery_driver;delivery_estimate;delivery_estimate;delivery_tracking;delivery_tracking;delivery_tracking;delivery_tracking;delivery_urgency;gift_delivery;item_missing;item_missing;item_missing;misdelivery;misdelivery;not_dispatched;package_damaged;shipping_speed;shipping_speed;shipping_speed;shipping_speed,10;15;16;18;20;24;31;47;48;62;66;86;106;137;143;144;146;147;148;149;150;151;153;155;156;165;166;172;174;176;177;186;192;193;194;195;196;197;198,0.1625
+Conversation closure (artifact),artifact,46,4218,ack_done;ack_done;ack_done;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_thanks;ack_willdo;ack_willdo;ack_willdo;ack_willdo;ack_willdo;ack_willdo;empathy_farewell;empathy_farewell;resolution_thanks;resolution_thanks;resolution_thanks;template_affirm;template_affirm;template_affirm;template_affirm;template_affirm;template_neg;template_neg;template_neg;template_neg;template_time;template_time,0;1;2;3;4;5;6;17;22;25;34;45;52;65;72;76;85;87;89;91;92;93;107;110;111;112;113;114;115;116;117;118;121;123;124;125;126;127;128;130;131;132;133;134;167;175,0.0969
+Verification / information flow,contextual,15,3300,detail_provided;detail_provided;detail_provided;detail_provided;detail_provided;detail_provided;detail_provided;detail_provided;detail_provided;detail_provided;detail_provided;detail_provided;detail_provided;detail_provided;detail_provided,11;14;50;51;57;58;59;60;73;74;78;136;178;190;191,0.0758
+Agent / support experience,intent,10,2088,agent_escalation;agent_escalation;agent_escalation;bot_vs_human;complaint_service_quality;complaint_service_quality;complaint_service_quality;complaint_service_quality;complaint_service_quality;complaint_service_quality,19;37;79;88;95;119;129;139;141;142,0.0479
+Orders & fulfilment,intent,10,2052,cancel_order;cancel_order;order_status;order_status;order_status;refund_request;refund_request;replacement_request;return_process;return_process,46;71;183;187;188;189;199;200;201;202,0.0471
+Out-of-domain / conversational,ood,3,2031,off_topic_chat;off_topic_chat;off_topic_chat,70;109;122,0.0466
+Support progress: waiting / nudge,intent,9,1618,cs_team_no_response;cs_team_no_response;cs_team_no_response;next_step_guidance;resolution_pending;resolution_pending;resolution_pending;resolution_pending;resolution_pending,29;30;43;61;63;64;75;140;185,0.0372
+Amazon devices & apps,intent,8,1470,connectivity;device_issue;device_issue;device_issue;echo_alexa;echo_alexa;fire_tv;kindle_app,68;69;94;97;98;101;102;103,0.0338
+Account & settings,intent,1,1044,account_login,184,0.024
+Products & defects,intent,9,970,preorder;preorder;preorder;product_defect;product_defect;product_defect;product_defect;product_question;product_question,38;39;40;77;80;90;104;120;145,0.0223
+Support progress: waiting / nudge,contextual,5,744,status_update_request;status_update_request;time_estimate_query;waiting_status;waiting_status,26;41;158;159;173,0.0171
+Shopping & catalogue,intent,7,701,price_change;price_change;region_mismatch;region_mismatch;shipping_cost;stock_availability;stock_availability,8;13;23;33;44;170;171,0.0161
+Contacting support,intent,6,670,contact_callback_request;contact_channel;contact_channel;contact_phone_issue;contact_phone_issue;third_party_contact,36;157;160;161;163;164,0.0154
+Payments & billing,intent,5,657,charge_inquiry;gift_card;payment_method;prime_charge;prime_charge,154;179;180;181;182,0.0151
+Context-dependent / unclear,contextual,1,648,transitional,42,0.0149
+Digital content & streaming,intent,7,507,music;prime_video;prime_video;prime_video;prime_video;prime_video;prime_video,67;81;82;96;99;100;105,0.0116
+Marketplace & sellers,intent,3,373,seller_issue;seller_issue;seller_issue,28;168;169,0.0086
+Verification / information flow,intent,6,368,link_issue;link_issue;link_issue;link_issue;link_issue;verify_fax,35;53;54;55;56;162,0.0085
+Promotions & offers,intent,3,320,contest_promo;contest_promo;promo_code,12;21;108,0.0073
+Sentiment / venting (not a customer goal),sentiment,6,297,fraud_accusation;negative_frustration;negative_frustration;negative_frustration;negative_frustration;negative_frustration,9;32;49;83;135;138,0.0068
+Security / account safety,intent,1,50,phish_email,152,0.0011
+Complaints & sentiment,sentiment,1,40,false_advertising,84,0.0009
+Community & reviews,intent,1,38,review_q,27,0.0009

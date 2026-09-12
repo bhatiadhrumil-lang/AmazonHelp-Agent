@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+91,312098,227095,1.0,0.0,"@AmazonHelp Yes, i have already done that."
+91,1428267,1428272,1.0,0.0,@AmazonHelp Ive been doing this
+91,2236311,2236313,1.0,0.0,@AmazonHelp I already did this
+91,1300544,1299401,1.0,0.0,@AmazonHelp I already compliant
+91,2459203,2459196,0.7697024756538482,0.23029752434615178,@AmazonHelp I've already done it with photographs of product
+91,2298476,2298485,1.0,0.0,@AmazonHelp yes I have recieved it
+91,347785,347781,1.0,0.0,@AmazonHelp I have done this
+91,256640,256641,1.0,0.0,@AmazonHelp I have done it 👍🏻

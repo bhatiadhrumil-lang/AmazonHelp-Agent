@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+101,1223090,1223092,0.9836373326447695,0.01636266735523053,@AmazonHelp It’s all sorted now - thanks!! I think my internet connection was wonky. Turned iPad to 4G and it downloaded immediately 😊
+101,2698909,2698911,0.9329098203865177,0.06709017961348228,@AmazonHelp I'm on my iPad--better to switch to a PC?
+101,2496339,2496340,0.9974837352692189,0.0025162647307811563,@AmazonHelp My iPhone. I always use it? Not sure why its suddenly saying that
+101,2153019,2153020,1.0,0.0,@AmazonHelp I'm on my iPad.
+101,1529902,1529906,0.8156278628509598,0.18437213714904022,@AmazonHelp It is a mini iPad 3rd generation
+101,1159327,1159333,1.0,0.0,@AmazonHelp On both my IPad and my IPhone 6
+101,519749,519751,1.0,0.0,@AmazonHelp iOS. It worked a couple of weeks ago.
+101,2565547,2565552,1.0,0.0,@AmazonHelp Thanks! I’m on my iPhone right now but can switch to a laptop or iPad if need be.

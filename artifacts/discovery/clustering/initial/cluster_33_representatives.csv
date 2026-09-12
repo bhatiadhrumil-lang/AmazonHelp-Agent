@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+33,1127175,1127180,0.78866819705595,0.21133180294404996,@AmazonHelp Hermes UK.
+33,2891937,2891935,0.7461291670677656,0.2538708329322344,"@AmazonHelp I’m in the Uk, is this only available in the US?"
+33,65690,65698,0.7243734911746428,0.2756265088253573,"@AmazonHelp Also, not sure why I should give feedback in the UK if I live in the US. ;)"
+33,1223076,1223072,0.9956601209359398,0.004339879064060183,@AmazonHelp I see the link says UK-- is there a US one? Or does it not even matter?
+33,2297407,2297413,0.452080157732875,0.547919842267125,@AmazonHelp This took me to the U.K. Site but I'm in the US.
+33,297974,297975,1.0,0.0,"@AmazonHelp It is related to UK only, not USA."
+33,2906695,2906697,0.387637764312006,0.612362235687994,@AmazonHelp In the UK not US
+33,77498,77496,0.9057038828224883,0.0942961171775117,@AmazonHelp ok but this is a link to the UK site and i live in the US

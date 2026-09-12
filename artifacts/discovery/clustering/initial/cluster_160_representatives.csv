@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+160,1446377,1446375,1.0,0.0,@AmazonHelp Tried to contact via phone same problem
+160,581182,581180,1.0,0.0,@AmazonHelp I tried that on that call it doesn't accept my inputs that is main problem
+160,96786,96784,1.0,0.0,@AmazonHelp Yes I have tried calling to them on 180030009009 number and application. Both ways but not able to talk as they cut my phone before connecting
+160,673211,673208,1.0,0.0,@AmazonHelp Unable to get in touch via phone. The call is hanging up as it has no option to talk about an enquiry of a product
+160,274254,274248,1.0,0.0,@AmazonHelp Your system doesn't allow me to request a call back via a switchboard and extension number
+160,842212,842214,1.0,0.0,@AmazonHelp From past 1 hr I am trying to connect but did not receive any call
+160,29514,29516,1.0,0.0,"@AmazonHelp Yes, try dialing 180030009009, select any option, IVR would say use the app the call will disconnect."
+160,1137290,1137293,1.0,0.0,"@AmazonHelp i tried call back request ..but still error , bot conectting my call ,"

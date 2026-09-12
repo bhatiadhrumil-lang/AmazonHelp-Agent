@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+110,2481440,2481436,1.0,0.0,@AmazonHelp I will. Thank you
+110,2537425,2537423,1.0,0.0,@AmazonHelp Ok I will. Thanks JJ
+110,2905073,2905076,1.0,0.0,@AmazonHelp Thanks a bunch!! I certainly will.
+110,517602,517607,1.0,0.0,"@AmazonHelp i will, i appreciate it!"
+110,1032339,1032340,1.0,0.0,"@AmazonHelp Yes i will, i have contaced you guys here before many times"
+110,1457239,1457243,1.0,0.0,"@AmazonHelp Okay, I will. Thanks for your help."
+110,2562179,2562177,1.0,0.0,"@AmazonHelp I will, it’s for a birthday present tomorrow !"
+110,2345643,2345647,1.0,0.0,@AmazonHelp I sure will. Thanks for letting me know so quickly guys !

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+55,126794,126799,0.9757873263363313,0.024212673663668787,@AmazonHelp The provided link didn't help me
+55,1279202,1279203,1.0,0.0,"@AmazonHelp Yes, but when I follow that link, there are no links to subtopics on my left sidebar. We’ve just replicated the problem, one tier down"
+55,1427889,1427893,0.9640487133143861,0.035951286685613836,@AmazonHelp That link is not working for me
+55,676939,676940,1.0,0.0,@AmazonHelp I am not able to open this link.
+55,629610,629612,1.0,0.0,@AmazonHelp none of link provided is working....
+55,1774580,1774581,0.9493795534465793,0.05062044655342068,@AmazonHelp Nothing of the link provided helps
+55,439685,348045,0.8444909637571465,0.1555090362428535,@AmazonHelp No such link is shared.
+55,1272927,1272924,0.7878727561778971,0.21212724382210288,@AmazonHelp That link is not helping.

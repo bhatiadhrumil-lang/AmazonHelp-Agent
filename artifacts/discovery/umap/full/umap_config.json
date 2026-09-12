@@ -1,0 +1,15 @@
+{
+  "input_embeddings": "artifacts/discovery/embeddings/full/embeddings.npy",
+  "input_embeddings_sha256": "dfc88b72395612cdf3fca55c93fbefa594c0eb044a1db1ae22008c7e26f6557d",
+  "input_embeddings_shape": [
+    93171,
+    384
+  ],
+  "umap": {
+    "metric": "cosine",
+    "min_dist": 0.1,
+    "n_components": 8,
+    "n_neighbors": 30,
+    "random_state": 42
+  }
+}

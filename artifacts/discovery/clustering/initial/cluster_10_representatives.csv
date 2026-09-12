@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+10,2321006,2321004,1.0,0.0,@AmazonHelp Both times it was amzl us
+10,377223,377224,1.0,0.0,@AmazonHelp AMZL US.
+10,1076279,1076282,1.0,0.0,@AmazonHelp “AMZL US” ?
+10,1241107,1241110,1.0,0.0,@AmazonHelp By AMZL US
+10,304372,304374,1.0,0.0,@AmazonHelp AMZL US?
+10,865622,865617,1.0,0.0,@AmazonHelp amzl us was the for all three
+10,1724453,1724454,1.0,0.0,@AmazonHelp Those with AMZL US
+10,450709,450711,1.0,0.0,@AmazonHelp AMZL US - is that what you mean?

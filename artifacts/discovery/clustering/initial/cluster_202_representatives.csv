@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+202,976789,976790,0.9823589695083725,0.1724548079123095,@AmazonHelp You have my order details... Stop asking for details and provide solution
+202,253968,253964,0.9878154976689482,0.1678581952839998,@AmazonHelp Where is my order ?
+202,1511952,1511965,0.9574879731486559,0.1934062870546176,@AmazonHelp I am getting a link to some other order..
+202,834857,834858,1.0,0.008351591379761499,@AmazonHelp Can I not just give you the order number? Because this isn’t the first time we’ve spoken to someone about this.
+202,153626,153627,0.8378663495029197,0.2941762729664818,@AmazonHelp I have sent you a reply back via this link. Can you look into this ASAP please as the order should have been here today
+202,276430,276434,1.0,0.0,"@AmazonHelp Please do it on priority basis, as i am stuck in placing the order."
+202,2832933,2832934,0.9055952714821592,0.23712101568384927,@AmazonHelp I have gone through the order again and cannot see the option for this item please can you clarify as I want to see if I have missed this or it was not there when I complain and so far I cannot see it. Thank you
+202,1674840,1674841,0.9952973941141782,0.16155540005014887,@AmazonHelp Thank you - this order isn’t listed there?

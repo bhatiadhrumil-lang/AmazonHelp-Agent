@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+18,1500722,1500729,0.8314130264290818,0.1685869735709182,"@AmazonHelp Royal Mail have confirmed their courier returned it to the depot to be delivered tomorrow, no reason was given for the failure to deliver."
+18,1331914,1331915,0.8119968345836164,0.1880031654163836,@AmazonHelp This is Royal Mail! Why didn’t it get sent AM delivery?!
+18,2477373,2477376,0.7219450208549962,0.27805497914500377,"@AmazonHelp Royal Mail are meant to be delivering today, and you list it as 'Out for delivery' but the tracking on the RM site only shows received at the sorting office and not yet out for delivery. Hence my scepticism"
+18,299002,299004,0.7309967711951404,0.26900322880485966,@AmazonHelp Hi sorry didnt realise it was royal mail think its coming tomorrow x
+18,1346592,1346593,0.8030100856777728,0.1969899143222272,"@AmazonHelp A delay notice has been given, yes. Can Royal Mail still deliver this late?!"
+18,2472381,2472385,0.8227726532273569,0.177227346772643,@AmazonHelp Hello there! As I thought Royal Mail did not make another delivery today and I haven’t recieved my parcel yet.
+18,1290391,1290393,0.7309967711951404,0.26900322880485966,@AmazonHelp 9pm. Surely you don't want to be associated with this sort of late delivery? DPD &amp; Royal Mail were better - more expensive eh???
+18,448699,448702,0.661693465434832,0.338306534565168,@AmazonHelp @126705 - Will it come today? Is there some kind of issue at Manchester Mail Centre?? https://t.co/M888QGG6fD

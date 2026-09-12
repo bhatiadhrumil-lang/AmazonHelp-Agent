@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+11,2724967,2724968,1.0,0.0,@AmazonHelp os mando la incidencia por privado (soy bueno) 😉
+11,1452908,1452909,0.9535610514873184,0.04643894851268162,@AmazonHelp @132703 Sí! Os paso los datos por privado.
+11,754988,754989,1.0,0.0,@AmazonHelp Os he dejado un privado
+11,739669,739670,1.0,0.0,"@AmazonHelp Eso os he preguntado por privado, que dónde debo poner la reclamación?"
+11,2657673,2657675,1.0,0.0,@AmazonHelp Well I sent you guys a private message can I talk in private in case
+11,2878657,2878652,1.0,0.0,@AmazonHelp Vi ho scritto in privato
+11,2857257,2857258,1.0,0.0,@AmazonHelp Os he mandado un privado a esa cuenta ahora mismo!
+11,1113558,1113554,1.0,0.0,@AmazonHelp Envío mensaje privado

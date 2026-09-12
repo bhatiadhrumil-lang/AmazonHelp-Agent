@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+140,2477457,2477475,1.0,0.0,@AmazonHelp evening I was told I would have a reply in 12 hours or so! Any updates thank you
+140,2220066,2220068,1.0,0.0,@AmazonHelp I have filled in the details. It says I will get a response in 12 hours. I would expect a shorter response time
+140,1297935,1297933,1.0,0.0,@AmazonHelp 12 hour response time? That won't help lol
+140,2205516,2205514,1.0,0.0,@AmazonHelp They say it takes up to 12hrs for a reply
+140,1575679,1575675,1.0,0.0,@AmazonHelp So I should expect a response within 12 hours?
+140,2763477,2763475,1.0,0.0,"@AmazonHelp Thank for the support, I did it already, unfortunately it can take up to 12h to reply. Hopefully the answer will get back soon."
+140,2428163,2428164,1.0,0.0,@AmazonHelp Thank you. Just sent a message. However it says aim to reply within 12hours. That doesn’t seem very ‘real time’ 🤔
+140,2804278,2804276,1.0,0.0,@AmazonHelp May I know an estimated time it will take for a response I emailed at 6:22 PM EST today

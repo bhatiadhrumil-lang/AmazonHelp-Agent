@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+123,2135775,620004,1.0,0.0,@AmazonHelp Así es :(
+123,1121253,1121249,1.0,0.0,@AmazonHelp So that's it!!
+123,1014757,1014703,1.0,0.0,@AmazonHelp That's it
+123,1251992,1251988,1.0,0.0,"@AmazonHelp First come, first serve. That's it, that's all."
+123,383320,383318,1.0,0.0,@AmazonHelp C'est fait !
+123,2840210,2840219,1.0,0.0,@AmazonHelp Et voilà qui est fait ;)
+123,1737631,1737629,1.0,0.0,@AmazonHelp Yes that's there over in talking about
+123,2508076,2508079,1.0,0.0,@AmazonHelp Oui c'est fait un justificatif de domicile

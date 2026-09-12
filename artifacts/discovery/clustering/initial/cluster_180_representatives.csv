@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+180,507125,507123,1.0,0.0,@AmazonHelp It’s hard to know if I was charged for it because I don’t know how much it cost
+180,744115,744097,1.0,0.0,@AmazonHelp @115850 pls reply why I was charged in that case...
+180,838617,838618,1.0,0.0,"@AmazonHelp Being charged twice, being told that the first charge is simply an authorization charge when it isn’t so you guys were contacted as well"
+180,153679,153681,1.0,0.0,@AmazonHelp and is the charge reimbursed?
+180,2686406,2686408,1.0,0.0,"@AmazonHelp 24.99 charged today 11/19, but I have not purchased anything."
+180,2722368,2722365,1.0,0.0,"@AmazonHelp but i just got an email saying i could list things, and i've been charged 19p for something"
+180,1177639,1177640,1.0,0.0,@AmazonHelp I think i was charged for USA membership which is clearly not useful or something I did shown interest. How come this is auto deducted. Please ensure you revert all the charges.
+180,2945493,2945488,1.0,0.0,@AmazonHelp It is definitely a charge. It appeared on my bill. None of these charges were authorized. None of them correspond to anything I purchased from you. They are random charges.

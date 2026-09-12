@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+53,180863,180868,1.0,0.0,@AmazonHelp No error message- just a completely blank page.
+53,645,646,1.0,0.0,@AmazonHelp That page is useless - doesn’t allow me to state it hasn’t been delivered; only tells me it has! How can you sort this out?
+53,2907802,2907804,1.0,0.0,@AmazonHelp says no page found 🤔
+53,2113573,2113580,1.0,0.0,"@AmazonHelp Ha, yeah, that page doesn't work."
+53,1715677,1715678,1.0,0.0,@AmazonHelp I get a blank page. Super helpful. 👍🏼
+53,984198,984199,1.0,0.0,"@AmazonHelp Hi, I don't want to return it - I want to read it! I think the problem here is it's a 2-page spread, but lack of zoom is a basic problem."
+53,374537,374538,1.0,0.0,"@AmazonHelp it just never showed and then the page changed to ""if not by wed then..."" after we canx plans for the nite."
+53,1573518,1573511,1.0,0.0,@AmazonHelp That page doesn't have those items listed.

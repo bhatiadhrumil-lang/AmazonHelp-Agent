@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+45,2971950,2971955,1.0,0.0,@AmazonHelp Okay thank you.
+45,1385714,1385709,1.0,0.0,@AmazonHelp Alright. Thank you TP.
+45,510382,510383,1.0,0.0,@AmazonHelp Okay thank you.
+45,262567,262569,1.0,0.0,"@AmazonHelp Ok, thank you"
+45,2115556,2115560,1.0,0.0,"@AmazonHelp Ok, thank you"
+45,1373688,1373691,1.0,0.0,@AmazonHelp Alright thank you.
+45,444326,444334,1.0,0.0,@AmazonHelp Okay. Thank you
+45,2292123,2292124,1.0,0.0,@AmazonHelp ok thank you.

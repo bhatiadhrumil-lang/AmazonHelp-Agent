@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+69,1009194,1009195,0.7968217198184608,0.20317828018153916,@AmazonHelp I’ve change it to Echo see how i get on...
+69,551984,551985,1.0,0.0,"@AmazonHelp Thanks for the response! Correct, I'm in a small room with one Echo device, I make a request, and the one in the kitchen (definitely further away) responds in addition to the one in my room."
+69,1582918,1582919,1.0,0.0,@AmazonHelp Wird auf der Echo Produktseite als 3 und 2 pack angeboten https://t.co/7M13TXJwgp
+69,238005,238008,0.7037962477566096,0.2962037522433904,"@AmazonHelp Was actually talking about in the promo for the new Echo, 👨🏻 played music in the 👦🏻's room from another echo. Can I do that w/ 1st gen echo?"
+69,2226387,2226389,1.0,0.0,"@AmazonHelp Thanks for your reply. Do you know why I so often see them paired w/ the Echo Dot in Daily Deals? (Is it “just a promotional pkg” thing?) Also, do you have any info abt my TV question (tweet 2/2)? Thx 💐"
+69,1426697,1426698,1.0,0.0,"@AmazonHelp Yes, I'm aware of that, and that was the case with the first generation echo, but it's not working properly with echo plus"
+69,551987,551985,1.0,0.0,"@AmazonHelp Same wake word. But according to that article, ESP makes it so Echo intelligently knows which device you're talking to. And that's not happening here."
+69,1892089,1892090,1.0,0.0,"@AmazonHelp Thanks, can I just ask does the new Echo need to be plugged in constantly for it to work?"

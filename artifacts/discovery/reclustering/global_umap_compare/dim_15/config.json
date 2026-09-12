@@ -1,0 +1,19 @@
+{
+  "experiment": "dim_15",
+  "input_embeddings": "/home/dhrumil/Desktop/agent-amazon/artifacts/discovery/embeddings/full/embeddings.npy",
+  "umap": {
+    "n_components": 15,
+    "n_neighbors": 30,
+    "min_dist": 0.1,
+    "metric": "cosine",
+    "random_state": 42
+  },
+  "hdbscan": {
+    "min_cluster_size": 30,
+    "min_samples": 10,
+    "cluster_selection_method": "eom",
+    "metric": "euclidean"
+  },
+  "umap_seconds": 260.4,
+  "hdbscan_seconds": 19.9
+}

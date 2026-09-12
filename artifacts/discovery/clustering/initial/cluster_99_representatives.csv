@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+99,111782,111783,1.0,0.0,@AmazonHelp Seems kinda pointless seen as Netflix is working fine and dandy on my laptop... 🙄
+99,2303338,2303339,1.0,0.0,@AmazonHelp Thanks. I’ll stick with just Netflix then. The current compatibility is subpar to be honest.
+99,162007,162008,1.0,0.0,@AmazonHelp And when I click on the Netflix app... https://t.co/MM3JmpHBgS
+99,2575232,2575235,1.0,0.0,"@AmazonHelp The link recommends updating device’s firmware. That’s exactly when this issue has started! Netflix streams with no issues, not internet problem. Bandwidth d:100mbs u:2mbs. Could the issue be related to Amazon video android app fir Sony TVs?"
+99,2332361,2332362,1.0,0.0,"@AmazonHelp Sure, when I Click the Netflix app, it freezes and nothing happens. I live in Mexico BTW."
+99,1096778,1096779,1.0,0.0,"@AmazonHelp Netflix is working just fine, but our movie is on Amazon!"
+99,1434018,1434019,1.0,0.0,"@AmazonHelp I did not see a list of apps on that link or any child link. Netflix, I am asking if I can navigate netflix."
+99,2679496,2679501,1.0,0.0,"@AmazonHelp Als hätte ich dies in den vergangen 2 Wochen nicht schon ständig gemacht!! Bringt nix! Auch komplett platt zu machen bringt nichts (hatte dadurch 4 Tage komplett keinen Zugriff auf Netflix). Außerdem warum sollte ich Router neu starten, wenn die Leitung zu anderen Geräten gut!"

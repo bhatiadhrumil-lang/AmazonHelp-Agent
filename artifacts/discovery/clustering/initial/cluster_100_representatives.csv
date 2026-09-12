@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+100,505748,505749,1.0,0.0,"@AmazonHelp None of those solutions worked, unfortunately. And now none of the Prime movies have video. I can get audio/video with other apps, though (Netflix, Hulu)."
+100,2031125,2031123,1.0,0.0,@AmazonHelp It's fine. I fixed it by removing prime. It messes with the video subscription.
+100,1844488,1844489,0.9320228043624366,0.0679771956375634,@AmazonHelp ¿Pero debo de pagar por utilizar el servicio de prime video?
+100,354022,354023,1.0,0.0,@AmazonHelp I tried.. couldn’t. When I log into Kindle it changes Prime Video’s login and vice versa. That’s why tweeted to you.
+100,2314524,2314525,0.8988999864494022,0.10110001355059779,"@AmazonHelp This did not work, all my other videos in Prime and on Fire Stick appear perfectly. Can you confirm that @92306 's version of Roseanne is poorly cropped from its original 4:3 to fit 16:9?"
+100,69269,69267,0.8632452515851473,0.1367547484148527,"@AmazonHelp no, it's the main US version, and I'm accessing prime video on my Roku"
+100,868650,868646,1.0,0.0,@AmazonHelp Thanks. Would also like some tweaks in your search engine. That's the only issue I have with Prime Video. Really good UI otherwise
+100,1766847,1766855,1.0,0.0,@AmazonHelp Do you have a different method for me to watch my prime video?

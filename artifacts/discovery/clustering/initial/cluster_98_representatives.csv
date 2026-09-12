@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+98,158683,158681,1.0,0.0,@AmazonHelp Would put error when try too
+98,1447166,1447162,1.0,0.0,@AmazonHelp i tried that long back. it rung but no one picked up
+98,1070058,1070055,1.0,0.0,@AmazonHelp I tried but it did not work.
+98,1418568,1418569,1.0,0.0,@AmazonHelp Yes and I’ve tried that! Nothing is working
+98,2452524,2452525,1.0,0.0,@AmazonHelp Just tried that. Still not working.
+98,1757982,1757983,1.0,0.0,@AmazonHelp yeah I've tried that. Still not working :(
+98,412302,412303,1.0,0.0,@AmazonHelp I've tried all of the above already. Still doesn't work.
+98,2177986,2177990,1.0,0.0,@AmazonHelp Thanks! Tried that and didn't work..

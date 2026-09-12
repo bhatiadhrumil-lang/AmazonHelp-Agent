@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+164,660946,660948,0.9999915408724583,8.459127541622508e-06,"@AmazonHelp Well, that's two people who answered the phone and then hung up on me. Is the phone system broken also? At least the second person talked to me long enough to let me describe the problems."
+164,1012796,1012797,0.9855082854791029,0.014491714520897104,"@AmazonHelp I called so many times in day, But no outcomes found."
+164,420772,420770,1.0,0.0,"@AmazonHelp I called. Was on the phone for about 25 minutes, between being on hold with someone who wasn’t in Video and a Video person who knew nothing."
+164,1374572,1374568,1.0,0.0,@AmazonHelp several lengthy phone calls
+164,1648171,1648168,1.0,0.0,@AmazonHelp No consigo hablar con ellos. He llamado tres veces al móvil desde el que me han “llamado” y me cuelgan.
+164,1740760,1740761,1.0,0.0,@AmazonHelp This is not the first time this has happened. It’s literally every single phone call. Which turns into more than one call because of it
+164,2764434,2761289,1.0,0.0,"@AmazonHelp As i mentioned before, have called up there twice but of no use."
+164,1150889,1150892,1.0,0.0,"@AmazonHelp I used to never have to call about anything &amp; if I did, it was handled well right away. Not so this last year. Frustrating."

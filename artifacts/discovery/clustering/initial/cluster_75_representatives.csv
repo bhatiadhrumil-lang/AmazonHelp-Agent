@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+75,334026,334031,1.0,0.0,@AmazonHelp So still no response.
+75,440373,440386,1.0,0.0,@AmazonHelp yes but did not get any reply
+75,1110243,1110247,1.0,0.0,@AmazonHelp yes i did no response yet
+75,69838,69841,1.0,0.0,"@AmazonHelp Hi there, still no response from anyone!"
+75,844069,844080,0.9079633823761039,0.0920366176238962,"@AmazonHelp Hello, I still don't have a response? What is happening?"
+75,1232085,1232086,1.0,0.0,@AmazonHelp Still no reply no food
+75,69900,69933,0.9212278443182086,0.0787721556817914,@AmazonHelp I haven’t got any reply yet!
+75,2289939,2289940,0.7657060020403804,0.23429399795961955,@AmazonHelp Filled and replied yesterday but no response till 1921hrs.

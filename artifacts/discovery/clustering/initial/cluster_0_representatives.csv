@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+0,1215407,1215405,1.0,0.0,@AmazonHelp Thank you
+0,1176285,1176279,1.0,0.0,@AmazonHelp Thank you
+0,1306406,1306407,1.0,0.0,@AmazonHelp Thank you
+0,1117010,1117012,1.0,0.0,@AmazonHelp Thank you
+0,1339600,1339601,1.0,0.0,@AmazonHelp Thank you
+0,899524,899525,1.0,0.0,@AmazonHelp Thank you
+0,1505436,1505437,1.0,0.0,@AmazonHelp Thank you
+0,842133,842139,1.0,0.0,@AmazonHelp Thank you

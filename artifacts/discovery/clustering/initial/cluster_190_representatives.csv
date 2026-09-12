@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+190,159521,159523,0.530179946491688,0.4698200535083121,@AmazonHelp there was an email thank you
+190,1296268,1296269,0.4221644975425322,0.5778355024574677,@AmazonHelp Emailed you! 👌🏼
+190,1124088,1124091,0.4254688899315312,0.5745311100684688,@AmazonHelp Heute. Ja. Per Email.
+190,478477,478480,0.4157361681481973,0.5842638318518028,@AmazonHelp Thanks I'll look forward to that email
+190,1539909,1539905,0.43199269507673693,0.568007304923263,"@AmazonHelp Yes, this morning via email."
+190,2549519,2549520,0.47363682601197815,0.5263631739880218,"@AmazonHelp Bonjour, oui je l'ai transférer par email également :)"
+190,2791873,2791877,0.45122940268634737,0.5487705973136526,@AmazonHelp Yes and the email just came in thanks.
+190,1480139,1480137,0.4311854693971849,0.5688145306028152,@AmazonHelp Allright I just emailed you. thx.

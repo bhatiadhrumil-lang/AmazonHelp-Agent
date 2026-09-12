@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+116,2766895,2766893,1.0,0.0,@AmazonHelp non pas encore
+116,1748610,1748614,1.0,0.0,@AmazonHelp No not yet. Guide me oh wise ones…
+116,814893,814891,1.0,0.0,@AmazonHelp Not currently
+116,2829458,2829454,1.0,0.0,@AmazonHelp Pas cette fois non.
+116,83345,83346,1.0,0.0,@AmazonHelp Not yet. But according to UPS info you will.
+116,318214,318218,1.0,0.0,"@AmazonHelp Non pas encore, mais est-ce vraiment utile ?"
+116,1829420,1829418,1.0,0.0,@AmazonHelp No not yet. Just estimated.
+116,1437409,1437410,0.9535348099984361,0.04646519000156388,"@AmazonHelp Not yet, will do"

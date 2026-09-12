@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+125,2754642,2754644,1.0,0.0,@AmazonHelp Na selbstverständlich.
+125,2961792,2961790,1.0,0.0,@AmazonHelp Yeah correct
+125,825070,825071,1.0,0.0,"@AmazonHelp Yes, of course...."
+125,611109,611112,1.0,0.0,@AmazonHelp Yes sire
+125,430600,430598,0.8996494641000774,0.10035053589992259,@AmazonHelp yeah sure. ^_^
+125,384810,384811,1.0,0.0,@AmazonHelp Of course
+125,1439137,1439140,1.0,0.0,"@AmazonHelp Yes, exactly."
+125,941340,941342,0.9600097811429885,0.03999021885701153,@AmazonHelp I'm pretty sure

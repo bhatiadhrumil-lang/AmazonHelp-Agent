@@ -1,0 +1,3 @@
+experiment,n_clusters,n_noise,noise_pct,sizes
+e384_euc_30_10,4,12002,97.84,"[122, 64, 48, 31]"
+e384_euc_50_10,3,11989,97.73,"[122, 92, 64]"

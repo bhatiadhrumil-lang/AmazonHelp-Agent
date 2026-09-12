@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+168,803072,803070,0.9871276274083074,0.01287237259169256,@AmazonHelp sold by a seller. Charles Tyrwhitt
+168,2776318,2776321,0.8845798640061934,0.11542013599380659,@AmazonHelp It was filled by a seller
+168,2486952,2486956,0.8545746494573303,0.14542535054266967,@AmazonHelp vendido por BuyGifts entre prevista 15 nov
+168,25254,25259,1.0,0.0,@AmazonHelp It’s from a seller
+168,245870,245876,0.8374033930642113,0.16259660693578867,@AmazonHelp Vendido por “SOLUCIONES ALTHEA”.
+168,95363,95370,1.0,0.0,@AmazonHelp Vendido*
+168,479366,479368,0.9318500848676382,0.06814991513236177,@AmazonHelp The seller is now called go green batteries uk who advertises as a uk seller but the good are being shipped from Poland
+168,352076,352077,1.0,0.0,@AmazonHelp There was a promotion Divali sale

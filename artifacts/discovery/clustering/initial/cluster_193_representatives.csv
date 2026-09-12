@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+193,1309600,1309603,1.0,0.0,"@AmazonHelp The original delivery date was for today, Thursday 10/26"
+193,77339,77335,0.9118842854127818,0.08811571458721827,@AmazonHelp Delivery date changed once again!!
+193,1359047,1359045,0.9203815211050507,0.07961847889494929,@AmazonHelp Nope no new delivery date hence the frustration
+193,765789,765790,0.8373608937784565,0.1626391062215436,"@AmazonHelp Well the delivery date give to me was 24th November. Haven't got my delivery and now it's showing ""delivery date pending""."
+193,63874,63890,1.0,0.0,@AmazonHelp But no-one can give me a revised delivery date.... that is all I wanted to know!
+193,347916,347921,0.9378208367668616,0.06217916323313847,@AmazonHelp After then he show to 11 Oct delivery date . I request you to plz don't believe his delivery commitment date .
+193,2618124,2618125,0.7219396669648277,0.2780603330351723,"@AmazonHelp If you see the screenshot attached, you will realise that the delivery date was 1Nov and the it changed to 4Nov then to 6Nov and then 10Nov then 17Nov and now it is 23Nov. I expect it to receive before @118702 overtakes you in business. Thank You."
+193,480300,480302,0.8939904194777334,0.10600958052226664,"@AmazonHelp took the screenshot before purchasing, the Delivery date is Wednesday."

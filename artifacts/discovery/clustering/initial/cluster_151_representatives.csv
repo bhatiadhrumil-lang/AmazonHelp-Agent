@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+151,517664,517666,0.8864805964947002,0.1135194035052998,@AmazonHelp Thank you. There doesn’t appear to be a carrier listed at this stage.
+151,2623931,2623932,0.9753545497894771,0.024645450210522855,@AmazonHelp it’s been two seperate orders over 1 month. I have no idea who the carrier is??
+151,887992,887988,0.8628799332106311,0.13712006678936894,"@AmazonHelp Already did but cannot reach the carrier, so there is no point"
+151,136979,136982,0.9020311378830393,0.0979688621169606,@AmazonHelp Tells me the carrier but no address and I don't have time to go and collect it
+151,2590349,2590351,1.0,0.0,@AmazonHelp Nope. No carrier info either
+151,411444,411445,1.0,0.0,"@AmazonHelp No carrier is listed! Its held at the Newark, California facility"
+151,465151,465152,0.9368803135038715,0.06311968649612852,@AmazonHelp Thank you. For the carrier it saids ups
+151,89319,89320,0.7186201570634332,0.2813798429365668,@AmazonHelp Yeap I am contacting the carrier now. Thanks for the support. I have no problem with DHL with the exact same address. Not sure what is Aramex problem

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+127,44535,35857,0.905526043513644,0.09447395648635609,"@AmazonHelp De acuerdo, gracias!"
+127,477803,477807,0.9246734222597599,0.07532657774024008,"@AmazonHelp Okey, gracias por el trato"
+127,2730315,2730317,0.9131102203091574,0.08688977969084256,@AmazonHelp Perfekt.Vielen Dank und auch nen guten Start :)
+127,1838872,1838868,1.0,0.0,"@AmazonHelp That's perfect, thank you"
+127,1391199,1391197,0.7355554268312937,0.26444457316870634,"@AmazonHelp Yeah, no worries, thanks again. Cheers!"
+127,2597932,35857,0.7218108036759369,0.2781891963240632,"@AmazonHelp Ok, Perfecto! Muchas gracias!"
+127,2705738,2705739,1.0,0.0,@AmazonHelp Perfect. Thank you!
+127,2241044,2241038,0.837943000801268,0.16205699919873193,@AmazonHelp Sigh. Thanks.

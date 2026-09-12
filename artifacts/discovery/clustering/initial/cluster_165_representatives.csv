@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+165,282178,282176,1.0,0.0,@AmazonHelp I need this product tomorrow any how in my home address as I gift to my best buddies..
+165,293247,293256,1.0,0.0,@AmazonHelp Can u plz confirm for the particular product.. ? Don't go with easy way outs..
+165,985086,985088,1.0,0.0,@AmazonHelp Consider this matter with great responsibility ! Looking for product as soon as possible with heavy heart ... 😡
+165,432951,432947,1.0,0.0,"@AmazonHelp details submitted, hope to recieve the product"
+165,1638598,1638599,1.0,0.0,@AmazonHelp Product received. Thanks for responding.
+165,2643615,2643609,1.0,0.0,"@AmazonHelp Hi Team, thanks for you support. Product has been picked-up by agent, but didn't got any confirmation.Please send some confirmation message."
+165,233091,233089,1.0,0.0,@AmazonHelp Thanks for promptly taking up the request. Have received the product.
+165,748761,748762,0.942750472592328,0.05724952740767192,"@AmazonHelp @115850 I need my product today as any cost, i don't know,how you will do but you will"

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+194,191603,191609,1.0,0.0,@AmazonHelp Is there a cut off time for next day delivery
+194,2871647,2871642,1.0,0.0,@AmazonHelp My two day delivery is now two days late. That’s some BS.
+194,1474779,1474772,1.0,0.0,"@AmazonHelp Hey, remember this? Yeah still on going. 2 more cancelled delivery dates. What are you doing? WTF is going on"
+194,334890,334891,1.0,0.0,@AmazonHelp Already tried that. Wait 36 hours to see if it shows up is unacceptable for same day delivery.
+194,1079403,1079401,1.0,0.0,@AmazonHelp This is two times in two weeks that same day delivery has not been on time.
+194,453272,453275,1.0,0.0,@AmazonHelp @222548 I hear you. It seems that delivery schedules are way off. Something that is supposed to be 2 days delivery is now taking 4 days. I was hoping to have my order for tomorrow as I leave on holiday Sunday but not might not arrive till the 6th after I'm gone. I'll be sad. :(
+194,538606,538607,1.0,0.0,"@AmazonHelp Yes the delivery dates are being missed, in one instance by almost a week. I understand there will be delays. But I pay extra for two day delivery. When that doesn’t happen, I do expect some type of credit or refund"
+194,538502,538510,1.0,0.0,@AmazonHelp I have not. I've come to expect and accept that type of delivery delay this time of year.

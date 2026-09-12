@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+111,1615516,1615512,1.0,0.0,@AmazonHelp Will do 👍
+111,683066,683059,1.0,0.0,@AmazonHelp Will do..
+111,1953354,1953346,1.0,0.0,@AmazonHelp will do thks
+111,1691918,1691924,1.0,0.0,@AmazonHelp Aim to or will do?
+111,844211,844212,1.0,0.0,@AmazonHelp Will do. I’m soooo defeated !!
+111,2602881,2602883,1.0,0.0,@AmazonHelp shall do
+111,2882675,2882666,0.9568956160322623,0.043104383967737754,"@AmazonHelp Will do, as there is no such a thing as a flat F in my building 🤔"
+111,1247149,1247150,1.0,0.0,@AmazonHelp i shall do so

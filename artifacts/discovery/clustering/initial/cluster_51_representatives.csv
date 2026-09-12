@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+51,301037,301042,1.0,0.0,@AmazonHelp I have filled it out again
+51,126792,126799,1.0,0.0,@AmazonHelp Filled.... Plzzzzz check
+51,65791,65795,0.6816541332811435,0.31834586671885645,@AmazonHelp Have filled it again. Please check.
+51,1143385,1143373,0.7330389564378749,0.2669610435621252,@AmazonHelp I have filled up again . Hoping for quick result
+51,1034711,1034704,1.0,0.0,@AmazonHelp filled it .. please check
+51,711114,711112,1.0,0.0,@AmazonHelp Ok I have filled it out
+51,307192,307211,1.0,0.0,"@AmazonHelp Ok, I filled it out."
+51,2568069,2568075,1.0,0.0,@AmazonHelp I have filled it

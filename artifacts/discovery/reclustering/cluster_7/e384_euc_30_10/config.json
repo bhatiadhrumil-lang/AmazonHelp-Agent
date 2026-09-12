@@ -1,0 +1,8 @@
+{
+  "scope": "cluster_7_only",
+  "space": "384D_L2norm_euclidean(=cosine-order)",
+  "hdb": {
+    "min_cluster_size": 30,
+    "min_samples": 10
+  }
+}

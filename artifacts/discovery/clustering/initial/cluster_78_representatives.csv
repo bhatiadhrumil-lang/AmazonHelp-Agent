@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+78,2171058,2171073,0.6647264255093052,0.33527357449069484,@AmazonHelp Replied already two times
+78,347912,347913,0.6799225970076359,0.32007740299236404,@AmazonHelp Yes have done that twice
+78,2852136,2852134,0.6445847981365469,0.3554152018634531,@AmazonHelp Have done that twice! No change
+78,2918159,2918160,0.6389919987006047,0.36100800129939525,@AmazonHelp Twice now
+78,2596389,2596397,0.6998208435241569,0.3001791564758432,@AmazonHelp Done twice
+78,2756040,2756038,0.5024826485461651,0.49751735145383486,@AmazonHelp Thank you. If one looks close enough there are multiple such instances.
+78,138953,138954,0.616882929487684,0.383117070512316,@AmazonHelp have done what u said just now 30-40 times.
+78,1403249,1403250,0.6242049869394687,0.3757950130605313,@AmazonHelp Yes. Multiple times. Can you investigate the issue?

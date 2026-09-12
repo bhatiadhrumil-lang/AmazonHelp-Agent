@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+85,2663758,2663755,0.8329755648954159,0.5493531792274299,@AmazonHelp Done ✅ 3:04a 10/30/17
+85,1041674,1041676,1.0,0.19014449451189527,@AmazonHelp done. Thanks.
+85,233503,233505,1.0,0.44222718880223777,@AmazonHelp Done... thanks
+85,419621,419627,1.0,0.45526935892619047,@AmazonHelp Done. Hopefully now I can get some answers
+85,20032,20034,1.0,0.2998365275295344,@AmazonHelp Thank u.......done
+85,422754,422755,0.8560077693206287,0.5368925619692162,"@AmazonHelp Thankyou , it's done!😍"
+85,1727216,1727218,0.8634277942729411,0.5328782657572587,@AmazonHelp It’s done. Thank you
+85,499892,499893,1.0,0.38173109248856685,@AmazonHelp Done 😀 thanks x

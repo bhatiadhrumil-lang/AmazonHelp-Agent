@@ -1,0 +1,10 @@
+check,ok,detail
+noise_sample rows all HDBSCAN-noise,True,n=150; labels present: [-1]
+noise_sample ids are true noise (not clustered),True,0 rows not in labels==-1
+"no duplicated (conversation_id, customer_message_id) in validation sample",True,duplicate rows=0
+all validation candidate ids exist in embeddings_meta (full),True,missing ids=0
+validation cluster-source vs noise-source ids disjoint,True,overlap ids=0
+validation noise-source ids are HDBSCAN-noise,True,non-noise ids=0
+validation cluster-source ids are clustered,True,non-clustered ids=0
+no validation id repeated within the same source pick block,True,repeated-in-noise ids=0
+"cross-cluster exact-duplicate texts (merge signal, not leakage)",True,0 exact texts shared by >1 cluster (capped report to 10)

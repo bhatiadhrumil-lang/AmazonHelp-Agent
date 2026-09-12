@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+169,1053594,1053568,0.8163734322096909,0.183626567790309,@AmazonHelp I have a complaint against your seller then!
+169,1254127,1254133,0.8440699483581258,0.15593005164187426,"@AmazonHelp They should, but what's done is done. I don't want any further contact with this seller. I do want to lower the rating I gave them though."
+169,1249705,1249706,0.7757974294220307,0.22420257057796938,@AmazonHelp Can I search for everyone except a few select sellers that I’ve had problems with?
+169,2431098,2431102,0.9455015362686716,0.054498463731328335,"@AmazonHelp the link that you provided shows seller feedback. My issue is not with seller, it's with difficultly of ordering 1 product."
+169,2931410,2931417,0.7359693729218036,0.26403062707819636,@AmazonHelp I will order to someone else's house and reduce the risk factor by choosing only trusted sellers.
+169,1661475,1661480,1.0,0.0,@AmazonHelp Have sent a message to seller support but suspect this will be quicker!
+169,921442,921448,0.794018082328468,0.20598191767153196,@AmazonHelp Your seller is faulty also
+169,1168818,1168819,1.0,0.0,@AmazonHelp I'm trying to deal with this now on the phone. Its a very long story. Basically an outside seller is trying to fuck with me. I'm pissed

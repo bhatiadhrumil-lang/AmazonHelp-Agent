@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+23,133736,133762,1.0,0.0,"@AmazonHelp Der Mitarbeiter sagt, dass der Artikel zu 100% nicht mehr kommen wird. Top 😂"
+23,1201947,1201945,1.0,0.0,"@AmazonHelp Merci. Du coup, pour recevoir le bon article, je dois re-commander ?"
+23,949627,949628,1.0,0.0,"@AmazonHelp Si. Estaba en stock las 3 veces. Lo mismo les informé en un tuit anterior. Es un problema con el artículo seguro, pero deben investigarlo."
+23,2889187,2889188,1.0,0.0,"@AmazonHelp Danke erstmal für die Antwort bzw. Schnelle Hilfe, aber leider muss ich ab einer bestimmten Stelle: ""Artikel auswählen"". Das Problem ist in meinen Bestellungen ist es nicht mehr drinne.. :/"
+23,2320303,2320304,1.0,0.0,"@AmazonHelp nein, da es wohl eher ein grundlegendes Problem ist, dass nicht alle Artikel mit jeder Versandoption ausgewählt werden können. Trotzdem danke für den Hinweis. :)"
+23,941414,941415,1.0,0.0,@AmazonHelp Gracias. No quedaba claro que hiciese falta seleccionar el artículo en el pedido de un artículo. Esta vez lo miré con más cuidado.
+23,529154,529156,1.0,0.0,@AmazonHelp Ça ne semble pas me proposer un échange... Mais simplement de retourner l'article puis de recommander...
+23,2616359,2616354,1.0,0.0,@AmazonHelp Merci ! Je vais voir ça. Mais je suppose qu'on me répondra que l'article a bien été expédie et que le problème de retard (ou de disparition...) relève exclusivement de la Poste...

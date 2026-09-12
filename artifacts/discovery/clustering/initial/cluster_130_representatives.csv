@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+130,2310063,2310065,0.6301196829670592,0.3698803170329407,@AmazonHelp Gracias por la pronta respuesta. Slds.
+130,1080663,1080664,0.7521234129575636,0.2478765870424364,"@AmazonHelp Thanks for the quick reply, no big deal, you are awesome! I will fill out the survey!"
+130,2242538,2242539,0.6113555788136412,0.38864442118635883,@AmazonHelp Agradezco la pronta respuesta.
+130,2310475,2310479,0.5481007376999284,0.4518992623000716,"@AmazonHelp Most definitely, thank you for responding! :)"
+130,575340,575338,0.609947321669744,0.39005267833025603,@AmazonHelp thank you for your response!
+130,1210202,1210203,0.9362718786104447,0.06372812138955528,@AmazonHelp Vielen Dank für die schnelle Antwort 👏
+130,1041663,1041664,0.7807778349588286,0.21922216504117137,@AmazonHelp Oh! Thanks for the quick answer.
+130,1150863,1150864,0.9858246048855202,0.014175395114479818,@AmazonHelp Thanks for the super quick response!!

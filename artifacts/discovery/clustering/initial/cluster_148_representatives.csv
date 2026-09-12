@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+148,339684,339686,0.6993896094106415,0.3006103905893584,@AmazonHelp USPS and inconveniences like this have happened multiple times over the last couple months.
+148,2176516,2176523,0.8808442909996788,0.11915570900032128,"@AmazonHelp I spoke to someone 20 minutes ago, and was told that you’re blaming USPS for the screw up, without taking any responsibility for making good on your guarantee."
+148,462560,462561,1.0,0.0,@AmazonHelp Thank you for your response! It was through USPS
+148,1020161,1020164,1.0,0.0,@AmazonHelp it says USPS. they both were assigned to that.
+148,1734586,1734584,0.6675663554549613,0.33243364454503865,@AmazonHelp USPS. Received this evening! Thanks.
+148,2438442,2438444,0.9147259474852792,0.08527405251472071,@AmazonHelp USPS is galactically unreliable and has HORRIBLE performance!
+148,2490624,2490629,0.8450342816823676,0.15496571831763237,@AmazonHelp USPS seems very unreliable... they have the most problems.
+148,2923495,2923497,0.70677941164098,0.29322058835902,@AmazonHelp They could not do anything because usps is closed. Everyone in the United States know USPS always hires disgruntle workers as customer service and they suck. So let them attempt in days when no one can collect and it’s returned

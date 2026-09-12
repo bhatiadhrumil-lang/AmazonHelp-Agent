@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+35,421254,421244,1.0,0.0,@AmazonHelp Seems that ticket has been closed! No option to reply on that page.
+35,28462,28463,1.0,0.0,"@AmazonHelp Really? A contact form? This has been a terrible waste of time. Entitled to 2 tickets, can’t buy 2 tickets. What’s going wrong?"
+35,22156,22152,0.8414127618473063,0.15858723815269374,@AmazonHelp It says that if I only select one ticket! What's going on?
+35,2676820,2676821,0.9516160102637725,0.04838398973622752,@AmazonHelp 140 characters isn’t enough to explain. You didn’t send my tickets for an event on Thursday and it’s caused all kinds of problems!
+35,224269,224271,1.0,0.0,"@AmazonHelp Yes, 10/3. no response yet. Always high ticket items get held up."
+35,674237,674239,1.0,0.0,"@AmazonHelp Already did that yesterday morning - they are 'looking into it' for me but I've heard nothing back from them. If you say tickets will go out 7 days before, then that's what should happen. A friend has also not received his tickets for the same event."
+35,1881701,1881702,0.9235232053527749,0.07647679464722507,@AmazonHelp I tried for over one hour to purchase tickets and failed
+35,2721788,2721789,1.0,0.0,"@AmazonHelp Hi no I haven't been sent any emails from you, but I have read that some people who brought a specific ticket with seat number etc, were disappointed that nearer the time of concert the seat number and location had been changed. This won't be the case with us will it?"

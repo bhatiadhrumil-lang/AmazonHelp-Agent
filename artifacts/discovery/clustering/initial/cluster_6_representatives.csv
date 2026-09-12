@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+6,535067,535070,1.0,0.0,@AmazonHelp Ok thanks
+6,499969,499970,0.04974987906367087,0.9502501209363291,@AmazonHelp Ok thanks bv
+6,536522,536528,1.0,0.0,@AmazonHelp Ok thanks
+6,58111,58109,1.0,0.0,@AmazonHelp Ok thanks
+6,1006560,1006554,1.0,0.0,@AmazonHelp Ok thanks
+6,529034,529032,1.0,0.0,@AmazonHelp Ok thanks
+6,1936461,5159,1.0,0.0,@AmazonHelp Ok thanks
+6,1015585,1015583,1.0,0.0,@AmazonHelp Ok thanks

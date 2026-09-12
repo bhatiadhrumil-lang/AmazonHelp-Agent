@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+112,312140,312144,1.0,0.0,@AmazonHelp Will do - thank you for the quick follow up!
+112,2695686,2695687,1.0,0.0,@AmazonHelp will do ... thanks for the pointer
+112,1461517,1461521,1.0,0.0,"@AmazonHelp Will do, thank you!"
+112,207627,207625,1.0,0.033586617112422966,"@AmazonHelp Will do, thanks for responding"
+112,1699077,1699075,1.0,0.05049384006813352,"@AmazonHelp Shall do, thanks."
+112,436425,436423,0.9113747659346152,0.365105199371239,@AmazonHelp I will do. Thanks for your help
+112,1662292,1661480,1.0,0.12430280796827982,@AmazonHelp Will do and thanks for the prompt replies
+112,1844492,1844493,1.0,0.0028608720650591564,@AmazonHelp Will do and thanks for your response!

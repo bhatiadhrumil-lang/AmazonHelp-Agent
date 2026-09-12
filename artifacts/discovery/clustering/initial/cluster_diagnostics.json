@@ -1,0 +1,19 @@
+{
+  "cluster_size_quantiles": {
+    "0.5": 74.0,
+    "0.75": 157.0,
+    "0.9": 341.6,
+    "0.95": 550.9999999999998,
+    "0.99": 1512.5199999999957
+  },
+  "largest_cluster_size": 12267,
+  "max_inter_cluster_cosine": 1.0,
+  "mean_inter_cluster_cosine": 0.3020046353340149,
+  "median_cluster_size": 74.0,
+  "min_inter_cluster_cosine": -0.04996185377240181,
+  "n_clusters": 203,
+  "n_noise": 49621,
+  "n_rows": 93171,
+  "noise_percentage": 53.257988000558115,
+  "smallest_non_noise_cluster_size": 30
+}

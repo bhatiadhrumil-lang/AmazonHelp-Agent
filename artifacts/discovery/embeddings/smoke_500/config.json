@@ -1,0 +1,14 @@
+{
+  "embedding": {
+    "backend": "sentence_transformers",
+    "batch_size": 64,
+    "device": "cpu",
+    "dtype": "float32",
+    "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "normalize": true
+  },
+  "limit": 500,
+  "model_dim": 384,
+  "seed": 42,
+  "source": "artifacts/conversation_audit/full_run_fixed/customer_problem_episodes.csv"
+}

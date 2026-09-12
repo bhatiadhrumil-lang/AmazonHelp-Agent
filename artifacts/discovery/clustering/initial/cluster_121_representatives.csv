@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+121,498352,498358,0.8485648090863013,0.15143519091369873,"@AmazonHelp Thanks, I'll head that way"
+121,1578555,1578558,0.7376036338106557,0.2623963661893443,"@AmazonHelp Danke, mach ich!"
+121,2500785,2500777,1.0,0.0,@AmazonHelp Gracias por la atención. Así lo haré.
+121,814401,814399,0.680625720670392,0.31937427932960805,"@AmazonHelp Pas de problème, je vais le faire. Merci 😊"
+121,1298971,1298969,0.8252856292580254,0.17471437074197463,@AmazonHelp ¡Enseguida lo hago! Gracias.
+121,1597020,1595203,0.721017399383605,0.27898260061639496,@AmazonHelp Will keep in mind next time. Thanks
+121,1996386,1996387,1.0,0.0,"@AmazonHelp Thanks, I’ll remember that in future"
+121,888264,888271,1.0,0.0,"@AmazonHelp Thanks, that's very kind of you! I'll do this now."

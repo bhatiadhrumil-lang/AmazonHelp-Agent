@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+153,626594,626596,1.0,0.0,@AmazonHelp Just says dispatched
+153,1731156,1731157,0.9929324367229944,0.00706756327700563,@AmazonHelp No just says dispatching now which it has done for the past 5 hours
+153,2352296,2352297,1.0,0.0,@AmazonHelp It says “Dispatching now”
+153,1687062,1687063,1.0,0.0,@AmazonHelp My friends one has been dispatched but mine still says not yet dispatched
+153,1838552,1838550,1.0,0.0,@AmazonHelp Just says not yet dispatched
+153,1691952,1691924,1.0,0.0,@AmazonHelp But still no dispatch
+153,1665799,1665797,1.0,0.0,"@AmazonHelp Nothing at all. That's why I'm curious of dispatching limits. I live in Derbyshire, where will it dispatch from?"
+153,1707982,1707983,1.0,0.0,@AmazonHelp Its not arrived and its still in dispatching stages fuming is not the word .. not good

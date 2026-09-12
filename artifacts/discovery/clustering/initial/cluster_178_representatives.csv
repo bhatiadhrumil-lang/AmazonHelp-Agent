@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+178,1773522,1773523,1.0,0.0,@AmazonHelp Full message sent.
+178,2402330,2402328,1.0,0.0,@AmazonHelp message sent thanks
+178,421903,421904,1.0,0.0,@AmazonHelp I have sent you a direct message! thanks.
+178,2492189,2492191,0.9493981855834029,0.05060181441659703,@AmazonHelp j'ai envoyé un message merci
+178,448304,448305,0.8673305952613476,0.13266940473865238,"@AmazonHelp Buenas noches, acabo de enviarlos a la plataforma un e-mail explicándoos todos, de todas formas si es necesario, os mando ahora los datos por MD."
+178,1342557,1342555,0.8970184579808506,0.10298154201914943,@AmazonHelp I’ve messaged you thank s
+178,1509882,1509884,0.9385051370493414,0.061494862950658695,@AmazonHelp Danke euch. Habe eine Nachricht geschrieben.
+178,2771673,2771674,1.0,0.0,@AmazonHelp Have sent you a message!

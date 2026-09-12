@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+145,1136259,1136260,1.0,0.0,@AmazonHelp I want to buy another mobile.
+145,2819844,2819846,1.0,0.0,@AmazonHelp Soo what should I do now I need to buy that phone with exhange offer
+145,180066,180069,1.0,0.0,@AmazonHelp Ja schon aber genau dieses Geld wollte ich erst mal sparen für ein neues Handy was ich mir bei euch kaufen möchte.
+145,1400656,1281419,1.0,0.01914436126949664,"@AmazonHelp I can not go to service center. As phone not worked well for 12 days such a defective phone you sold in ""Diwali Sale"" take it back"
+145,2987674,2987675,1.0,0.014833387502019941,@AmazonHelp Awesome phone for the price pay.
+145,226733,224960,1.0,0.0,@AmazonHelp got mail for replacement. What about the phone which i bought as i cant wait for 20 days for a phone. Who gonna bear the loss.
+145,1003704,1003702,1.0,0.0,@AmazonHelp Then i should change my mind for buying a new mobile isn't it?
+145,1498571,1108234,1.0,0.0,@AmazonHelp its strange the other item i ordered along has reached me but not this phone.

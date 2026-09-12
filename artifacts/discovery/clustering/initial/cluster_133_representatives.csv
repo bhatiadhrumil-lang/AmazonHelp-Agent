@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+133,2353717,2353724,1.0,0.0,@AmazonHelp Jvous remercie
+133,1223067,1223068,1.0,0.0,@AmazonHelp Grazie di esistere.
+133,1724726,1724724,1.0,0.0,"@AmazonHelp Simón, gracias."
+133,742377,742382,1.0,0.0,@AmazonHelp Je l'espère merci.
+133,2811149,2811147,0.9930014188522645,0.006998581147735542,@AmazonHelp Yeah I appreciate y'all :)
+133,590774,590770,1.0,0.0,@AmazonHelp Super utile merci de mieux en mieux
+133,2616361,2616354,1.0,0.0,"@AmazonHelp Merci, vous aussi !"
+133,1174746,1174749,1.0,0.0,@AmazonHelp Merci à vous

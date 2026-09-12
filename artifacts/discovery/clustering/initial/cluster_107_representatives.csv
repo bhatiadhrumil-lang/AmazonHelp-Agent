@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+107,1488817,1488825,0.5601852533453706,0.4398147466546294,@AmazonHelp Thank you for helping 🌸✨
+107,1800789,1800794,0.9730970888729992,0.02690291112700083,@AmazonHelp Ok. Thanks for you help. 😉
+107,198014,198016,0.9255340920812335,0.07446590791876655,"@AmazonHelp Ok, but need help regarding this."
+107,2632964,2632966,0.7783833057071464,0.22161669429285358,"@AmazonHelp Okay, thank you for your help - much appreciated."
+107,19441,19444,0.8509454340502053,0.14905456594979466,@AmazonHelp Ok thank for helping.
+107,1005136,1005134,0.948574097017264,0.05142590298273601,@AmazonHelp Ok. Thank you. I appreciate the help.
+107,726955,726958,0.6504889969307802,0.3495110030692198,@AmazonHelp D'acc! Merci de l'aide O/
+107,1724711,1724712,0.9999472229588405,5.2777041159503695e-05,@AmazonHelp Ok. Thank you for the help

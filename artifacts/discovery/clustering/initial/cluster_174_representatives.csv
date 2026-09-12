@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+174,530005,530009,0.9260102178254536,0.07398978217454638,"@AmazonHelp Nooo, just that there may be a delay."
+174,930344,930345,1.0,0.0,@AmazonHelp So what are the unforeseen circumstances that will cause up to a 2 day delay? Thanks.
+174,547946,547944,1.0,0.0,@AmazonHelp no reason at all except there may be a delay
+174,2863459,2863460,1.0,0.0,"@AmazonHelp Yes, and what exactly is a “preditive delay?”"
+174,438690,438688,0.8775115619594962,0.12248843804050384,"@AmazonHelp by today, any clue on how long the delay would be?"
+174,2318022,2318028,0.8778639378617256,0.12213606213827445,@AmazonHelp Just that it’s an unexpected delay. The same thing you said the other two times it’s been delayed!
+174,547950,547944,0.9381875661322037,0.06181243386779638,@AmazonHelp no just that it may be delayed a few days
+174,734062,281324,1.0,0.0,@AmazonHelp Never expected such delay.

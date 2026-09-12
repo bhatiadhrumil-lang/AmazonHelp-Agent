@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+4,2434981,2434985,0.03848156546596778,0.9615184345340322,@AmazonHelp Thanku ^CT
+4,2488403,2488404,1.0,0.0,@AmazonHelp Thank you
+4,2283511,2283514,0.011238701885246961,0.988761298114753,@AmazonHelp Thank you Shonna
+4,2492224,2492220,1.0,0.0,@AmazonHelp Thank you
+4,2474879,2474877,1.0,0.0,@AmazonHelp Thank you
+4,1043140,1043141,1.0,0.0,@AmazonHelp Thank you
+4,1136228,1136229,1.0,0.0,@AmazonHelp Thank you
+4,2538167,2538159,1.0,0.0,@AmazonHelp Thank you

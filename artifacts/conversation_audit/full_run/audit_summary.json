@@ -1,0 +1,37 @@
+{
+  "brand": "AmazonHelp",
+  "total_dataset_rows": 2811774,
+  "brand_tweets": 169840,
+  "brand_connected_components": 83286,
+  "component_status_counts": {
+    "KEEP": 42422,
+    "EXCLUDE": 38667,
+    "FLAG": 2197
+  },
+  "direct_customer_to_brand_episodes": 100108,
+  "episode_status_counts": {
+    "KEEP": 92784,
+    "FLAG": 5647,
+    "EXCLUDE": 1677
+  },
+  "component_thresholds": {
+    "gap_flag_hours": 72.0,
+    "long_conversation_flag_messages": 30,
+    "very_long_conversation_exclude_messages": 150,
+    "min_customer_chars": 1
+  },
+  "component_message_count_quantiles": {
+    "0.5": 3.0,
+    "0.75": 5.0,
+    "0.9": 8.0,
+    "0.95": 11.0,
+    "0.99": 20.0
+  },
+  "episode_char_length_quantiles": {
+    "0.5": 103.0,
+    "0.75": 146.0,
+    "0.9": 185.0,
+    "0.95": 242.0,
+    "0.99": 289.0
+  }
+}

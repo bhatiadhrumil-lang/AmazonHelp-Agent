@@ -1,0 +1,11 @@
+{
+  "n": 300,
+  "mean_cos_solo": 0.3609,
+  "mean_cos_aug": 0.6843,
+  "mean_rank_solo": 5.0,
+  "mean_rank_aug": 1.09,
+  "aug_better": 171,
+  "solo_better": 2,
+  "ties": 127,
+  "parity_solo": 1.0
+}

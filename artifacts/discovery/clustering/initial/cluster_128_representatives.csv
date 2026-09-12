@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+128,1221770,1221773,1.0,0.0,@AmazonHelp Ok. Thanks.
+128,2974797,2974798,0.7089246403270886,0.2910753596729115,@AmazonHelp Alrighty then. Thanks. 😞
+128,1411662,1411663,0.6200954779627151,0.37990452203728486,"@AmazonHelp Okay, no issues. Thanks"
+128,1263400,1263401,1.0,0.0,@AmazonHelp Ok. Thanks
+128,964197,964202,1.0,0.0,@AmazonHelp Okay. Thanks.
+128,15706,15707,1.0,0.0,@AmazonHelp ok. Thanks.
+128,227936,227937,1.0,0.0,"@AmazonHelp Ok, Thanks."
+128,802346,802342,1.0,0.0,@AmazonHelp Alright. Thanks.

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+157,77615,77617,0.5008787726538585,0.49912122734614156,@AmazonHelp call me on my registered number.
+157,1387208,1387213,0.5613359897093928,0.4386640102906072,@AmazonHelp 9911190866 this is my no. Call me
+157,1456382,1456389,0.46046664245619146,0.5395333575438085,@AmazonHelp Please ask them to call me on 9650563038
+157,879265,879263,0.728962382621036,0.27103761737896404,@AmazonHelp so what....call me 9718111527
+157,285617,285157,0.6927516952918864,0.3072483047081136,"@AmazonHelp Instead, can you call me on 9810486357."
+157,331312,331304,0.737911807590891,0.26208819240910897,@AmazonHelp 9545879019 call me right now as your no are unreachable
+157,1423034,1423024,0.46912441516232434,0.5308755848376756,"@AmazonHelp I understand I live on a street that has similar name to diff street 1 block over, but this is just stupidity. Why not call me to find me?"
+157,1422835,1422837,0.49516016978054955,0.5048398302194504,@AmazonHelp I need to speak to someone about this. Need a phone number NOW

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+65,1220819,1220821,1.0,0.0,@AmazonHelp Successs!!! Somehow it Works now!! Thanks 😩🙏🏼🙌🏽
+65,1445336,1445337,1.0,0.0,@AmazonHelp Thanks. Yes did this and now works fine xx
+65,492190,492191,1.0,0.0,@AmazonHelp It worked thanks 👍🏾
+65,246354,246344,0.9001326462658741,0.09986735373412597,"@AmazonHelp Yes it's working fine, thanks!"
+65,644736,644734,0.9092030714469572,0.09079692855304282,"@AmazonHelp Yes, other commands are working fine"
+65,1160653,1160651,1.0,0.0,"@AmazonHelp Yes, it worked, and why necessary???"
+65,1499747,1499751,0.9001326462658741,0.09986735373412597,@AmazonHelp Thanks ... it works
+65,2119350,2119354,0.970759182288994,0.029240817711005968,@AmazonHelp It worked now miraculously.... 👍

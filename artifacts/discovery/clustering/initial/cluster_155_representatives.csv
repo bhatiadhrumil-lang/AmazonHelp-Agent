@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+155,99981,99983,0.7776201445909331,0.22237985540906685,"@AmazonHelp Yeah but it was available to ship immediately, and your two day shipping has been 3 days for like everything I order now for a while now."
+155,339146,339149,0.6331142882105645,0.3668857117894356,@AmazonHelp But I chose 2 day shipping at checkout
+155,284814,284811,0.8960178376213901,0.10398216237860985,@AmazonHelp that doesn't even make sense. Best case scenario should not be given as estimate. Also why would 1 day shipping be sent UPS 2nd Day Air?
+155,2889280,2889194,0.8441314176860801,0.15586858231391987,"@AmazonHelp yes but the item was in-stock, so why with 1 and 2 day shipping options is it not arriving for a week is my question? that makes no sense?"
+155,321141,321143,0.6641966525343007,0.33580334746569934,@AmazonHelp And what do you mean by shipping speed?? Is it 2 days delivery for which I paid? Still it should be Monday not Tuesday.
+155,345280,345281,0.7000813037619601,0.29991869623803985,"@AmazonHelp Yeah, it says it’s been shipped but my guaranteed 2 day shipping has turned into 3 and I’m wondering why?"
+155,1083820,1083821,1.0,0.0,"@AmazonHelp Aka, standard shipping and not two day shipping as you advertise."
+155,176442,176443,1.0,0.0,@AmazonHelp It's just disappointing to go from 2 days shipping to 7.

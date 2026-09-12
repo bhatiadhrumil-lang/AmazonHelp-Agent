@@ -1,0 +1,30 @@
+{
+  "hdbscan": {
+    "cluster_selection_method": "eom",
+    "metric": "euclidean",
+    "min_cluster_size": 30,
+    "min_samples": 10,
+    "prediction_data": true
+  },
+  "input_umap_config": {
+    "input_embeddings": "artifacts/discovery/embeddings/full/embeddings.npy",
+    "input_embeddings_sha256": "dfc88b72395612cdf3fca55c93fbefa594c0eb044a1db1ae22008c7e26f6557d",
+    "input_embeddings_shape": [
+      93171,
+      384
+    ],
+    "umap": {
+      "metric": "cosine",
+      "min_dist": 0.1,
+      "n_components": 8,
+      "n_neighbors": 30,
+      "random_state": 42
+    }
+  },
+  "input_umap_coords": "artifacts/discovery/umap/full/umap_coords.npy",
+  "n_clustered_points": 43550,
+  "n_clusters": 203,
+  "n_noise": 49621,
+  "n_rows": 93171,
+  "noise_percentage": 53.257988000558115
+}

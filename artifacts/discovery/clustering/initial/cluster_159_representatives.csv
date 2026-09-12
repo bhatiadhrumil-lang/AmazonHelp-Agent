@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+159,358856,358857,1.0,0.0,@AmazonHelp Waiting yar
+159,980143,980152,1.0,0.0,"@AmazonHelp Okkk, fine i am waiting. But this is totally wrong."
+159,2176685,2176687,1.0,0.0,@AmazonHelp Ok I am waiting
+159,526597,526598,1.0,0.0,@AmazonHelp yea k but awaiting very soon
+159,2943275,2943271,1.0,0.0,@AmazonHelp Am waiting..
+159,388459,388457,0.9760205786379451,0.023979421362054835,@AmazonHelp Waiting waiting .....😴😴😴😥
+159,426330,426328,1.0,0.0,@AmazonHelp I am all waiting folks
+159,1890575,1890569,1.0,0.0,@AmazonHelp That's what I am doing #Waiting

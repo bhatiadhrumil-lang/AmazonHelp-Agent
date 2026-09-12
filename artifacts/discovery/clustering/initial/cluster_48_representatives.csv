@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+48,2594324,2594326,1.0,0.0,"@AmazonHelp Solicite mi producto el dia de ayer para entrega garantizada el dia de hoy segun su app, hable a servicio a clientes a las 5 y me dijeron que estaba en camino, y hace un momento aparecio en la app que la entrega ya es mañana, me la pase encerrado esperando su envio y no hay nada"
+48,293780,293781,1.0,0.0,"@AmazonHelp Nope, app says will be delivered tomorrow but is delayed and to follow instructions on attempted delivery notice- which I didn't get"
+48,2590348,2590351,1.0,0.0,"@AmazonHelp It's ok I'll wait till tomorrow. I'd be more concerned about the app showing an item ""arriving"" in the past while it has not shipped yet 😂"
+48,2795297,2795298,1.0,0.0,"@AmazonHelp Only by checking the app myself, three separate parcels now late that said they would be here Monday / Tuesday 😔😔"
+48,1537520,1537521,1.0,0.0,@AmazonHelp supposed to be delivered today and now app is saying won’t be here until Wednesday possibly. On line with CS
+48,2724466,2724464,1.0,0.0,"@AmazonHelp This is what is says on my app, I have been told by customer service that it will not be delivered today x"
+48,657882,657872,1.0,0.0,@AmazonHelp You tweeted it above. If it hasn’t arrived by 1200 today (and the status on my app hasn’t changed from yesterday) I need to arrange to pick it up myself.
+48,1069884,1069885,1.0,0.0,"@AmazonHelp Yes, I've received 2 updates from the app since, both with conflicting information and indicating the delivery won't be tomorrow as promised"

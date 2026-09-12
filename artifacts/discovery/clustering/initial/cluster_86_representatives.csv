@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+86,2055060,2055058,1.0,0.0,@AmazonHelp I never received one.
+86,2460808,2460809,1.0,0.0,@AmazonHelp Didn't receive any!
+86,1293016,1293022,1.0,0.0,"@AmazonHelp I’ve said, nothing has been received!"
+86,783427,783429,1.0,0.0,@AmazonHelp I received none of them
+86,2819168,2819161,1.0,0.0,"@AmazonHelp i have not received anything dont you understand that , we are done here , nothing needed good bye"
+86,980035,980029,1.0,0.0,@AmazonHelp Nothing received as of now
+86,2153009,2153010,1.0,0.0,@AmazonHelp I did not receive one.
+86,1313010,1281375,1.0,0.0,@AmazonHelp Not received.

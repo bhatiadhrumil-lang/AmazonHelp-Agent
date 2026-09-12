@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+17,1293000,1293004,1.0,0.0,@AmazonHelp okay thank you
+17,2849065,2845506,1.0,0.0,@AmazonHelp Ok thank you for that
+17,1641390,1641388,0.9982139263036193,0.001786073696380768,@AmazonHelp Ah fixed thanks
+17,816953,816954,0.9813053028562142,0.018694697143785768,@AmazonHelp Right thanks
+17,1223096,1223098,0.8474610187746697,0.15253898122533033,@AmazonHelp Ok thank you x
+17,758379,758380,1.0,0.0,@AmazonHelp Okay thank you
+17,392621,392622,1.0,0.0,@AmazonHelp Okay thankyou
+17,2971953,2971955,1.0,0.0,@AmazonHelp Okay thank you

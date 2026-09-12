@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+50,2349516,2349509,0.7420557436878629,0.2579442563121371,@AmazonHelp I've filled the form. Now sort out my problem asap.
+50,1585032,994246,0.7164127010847905,0.2835872989152095,@AmazonHelp I have already filled the form. It hasn't helped me much.
+50,63935,63826,0.6868672852609828,0.31313271473901716,@AmazonHelp i am ok with the information have filled the form please call asap now and solve this matter
+50,758938,758939,0.7160720365147465,0.2839279634852535,"@AmazonHelp I am messaging you the details,see if you care enough as you say .I am sick of filling these forms"
+50,182863,182873,0.7056718341015995,0.29432816589840044,@AmazonHelp No no more forms please thanks I have had enough disappointment thanks
+50,227880,227867,0.8056695678431334,0.1943304321568666,@AmazonHelp I already filled this form number of time but no reply and I did it Just now also so pls cal and solve this matter it's been high time
+50,1137391,1137399,0.7072331640789115,0.29276683592108854,@AmazonHelp This form I have submitted yesterday. Can you plz check. Why can't you handle the problem directly why should I fill a form
+50,140909,137096,0.6679969294486983,0.3320030705513017,@AmazonHelp Filled the form again wid details please contact me at earliest directly

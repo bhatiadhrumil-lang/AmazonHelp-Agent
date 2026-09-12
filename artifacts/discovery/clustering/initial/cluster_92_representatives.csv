@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+92,75888,75894,1.0,0.0,@AmazonHelp Yes i did
+92,1955350,1955344,1.0,0.0,@AmazonHelp I did. It's SUER.
+92,1805081,1805082,1.0,0.0,@AmazonHelp Just did.......
+92,487781,487782,1.0,0.0,"@AmazonHelp Yes I did, and it’s still doing it"
+92,470819,470824,0.9755697527880612,0.02443024721193876,"@AmazonHelp Yes, I wrote back."
+92,2840169,2840167,1.0,0.0,"@AmazonHelp Yes, I did. I even rebooted."
+92,1267609,1267607,0.7637333429416764,0.2362666570583236,@AmazonHelp I did. thanks.
+92,2308928,2308924,0.8889262154306107,0.11107378456938927,"@AmazonHelp Just did, returning and refunding right now"

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+52,2781844,2781845,1.0,0.0,@AmazonHelp Super merci de l'info
+52,294774,294771,1.0,0.0,@AmazonHelp Ok thanks for the information 👍
+52,318644,318645,1.0,0.0,@AmazonHelp OK thanks for the information.
+52,61009,35857,1.0,0.0,"@AmazonHelp Así es, gracias por la información."
+52,1594614,1594612,1.0,0.0,"@AmazonHelp Achso, danke für die Info!"
+52,2126702,2126703,1.0,0.0,@AmazonHelp Muchas gracias por la información y pronta respuesta.
+52,244167,244165,1.0,0.0,@AmazonHelp Thanks for informing
+52,2698979,2698977,1.0,0.0,@AmazonHelp Gracias por la información

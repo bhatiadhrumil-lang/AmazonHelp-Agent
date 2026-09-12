@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+118,1556278,1556279,1.0,0.0,@AmazonHelp C'est vraiment dommage...
+118,183378,183379,1.0,0.0,@AmazonHelp Bummer..that's sad :(
+118,2162402,2162399,1.0,0.0,@AmazonHelp This makes me sad :(
+118,142907,142908,1.0,0.0,@AmazonHelp Que pena
+118,31374,31375,1.0,0.0,@AmazonHelp Gah that's a real shame
+118,218893,218891,1.0,0.0,@AmazonHelp That's very sad to hear...
+118,249063,249064,1.0,0.0,@AmazonHelp That's really sad
+118,2410527,2410528,1.0,0.0,@AmazonHelp that’s a shame:( thanks for answering

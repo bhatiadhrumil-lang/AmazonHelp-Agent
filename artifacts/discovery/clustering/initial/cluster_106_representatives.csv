@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+106,2241065,2241066,1.0,0.0,@AmazonHelp I selected the correct address but you d sent it to the wring one
+106,413993,413991,1.0,0.0,@AmazonHelp Already arrived at the incorrect address.
+106,444395,444396,1.0,0.0,"@AmazonHelp Cuando introduje la dirección de envío la página se congeló, y en los detalles del pedido pone que llegará el sábado a una dirección errónea (ya no vivo ahí), y sólo quiero cambiarla por mi direción actual."
+106,445448,445446,1.0,0.0,@AmazonHelp Its going to my work address and im not going to be there for a bit. Thats why i asked them to change the address .
+106,2475933,2475936,1.0,0.0,@AmazonHelp And after 11 years it seems you have randomly decided our home address is a “commercial address” for no reason. And now you can’t change it on your system. Seriously??? You have to delete our address and we have to re-register? What a shower of idiots
+106,877637,877639,0.9869143604772664,0.013085639522733615,@AmazonHelp Oui et la 2e a était envoyer dans une poste et non a l'adresse indiqué ( j'ai mis 0 point relai )
+106,2475932,2475936,1.0,0.0,"@AmazonHelp So, your adviser tells me she’s deleted my address, I need to re-register it and “select it as residential not commercial”. But there’s no option for residential or commercial when you register your address. Does anyone who works there understand your systems?"
+106,1314574,1314583,1.0,0.0,@AmazonHelp It doesn't!! Anywhere! That's the point! If it had i would have arranged alternate del. address. And if it is its so small as to be useless. https://t.co/99LgTDe78g

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+114,264962,264968,1.0,0.0,"@AmazonHelp No, I haven't. Wish I did though."
+114,439315,439335,1.0,0.0,@AmazonHelp I haven't.
+114,2283985,2283983,1.0,0.0,@AmazonHelp I haven't. I am in bed with a rocking migraine.
+114,1768222,1768223,0.8325102250517445,0.16748977494825548,@AmazonHelp no i havent
+114,197727,197728,1.0,0.0,@AmazonHelp No I haven’t x
+114,317908,317906,1.0,0.0,"@AmazonHelp Haven't had one because I was sure I wouldn't be able to commit at the of the 30 days, sadly."
+114,503463,503464,1.0,0.0,"@AmazonHelp I haven’t, no. Because, y’know, Friday night."
+114,1094273,1094274,0.7579607549289672,0.24203924507103275,@AmazonHelp I haven’t! I’ll definitely do that. Thanks for the tip!

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+152,627853,627854,1.0,0.0,@AmazonHelp This is the email I received. Is it genuine? https://t.co/TkNXYJyrF2
+152,1015612,1015614,1.0,0.0,"@AmazonHelp Nope, this is the email I received. https://t.co/wU0q2MOd39"
+152,76068,76078,1.0,0.0,@AmazonHelp I feel like you guys are just playing me now. This email makes no sense. https://t.co/YUVxpR37sM
+152,275124,275129,1.0,0.0,@AmazonHelp https://t.co/qyehiagvNC. I received this email but I never asked for a change! https://t.co/TJWQKrG6N8
+152,1197342,1197347,1.0,0.0,"@AmazonHelp ""https://t.co/YYqtC23syj rejected your message to the following email addresses"""
+152,1482871,1482875,1.0,0.0,@AmazonHelp Yes I got an email. Part of which is attached. https://t.co/ReqtF7N2Ik
+152,1501820,1501822,1.0,0.0,@AmazonHelp Nope it's saying I'm not! Could it be a fake email sent out then? https://t.co/B6t63CkIt4
+152,1645706,1645710,1.0,0.0,@AmazonHelp @502872 Is this a fake email? It was sent by __email__ https://t.co/BrX1Vj7cJ1

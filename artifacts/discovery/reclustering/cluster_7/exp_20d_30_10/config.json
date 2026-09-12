@@ -1,0 +1,20 @@
+{
+  "scope": "cluster_7_only",
+  "n_points": 12267,
+  "corpus_rows": "see corpus_row_map.npy",
+  "umap": {
+    "n_components": 20,
+    "n_neighbors": 30,
+    "min_dist": 0.1,
+    "metric": "cosine",
+    "random_state": 42
+  },
+  "hdbscan": {
+    "min_cluster_size": 30,
+    "min_samples": 10,
+    "cluster_selection_method": "eom",
+    "metric": "euclidean"
+  },
+  "umap_seconds": 15.8,
+  "hdbscan_seconds": 1.4
+}

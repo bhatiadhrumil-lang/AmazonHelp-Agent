@@ -1,0 +1,1 @@
+"""Intent-discovery pipeline: embeddings -> UMAP -> HDBSCAN -> cluster analysis."""

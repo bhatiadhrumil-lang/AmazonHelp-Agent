@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+196,1953352,1953346,1.0,0.0,@AmazonHelp still showing as today for delivery
+196,1734578,1734579,1.0,0.0,@AmazonHelp It says out for delivery but it's said that since Friday
+196,334012,334031,1.0,0.0,@AmazonHelp Still says it’s out for delivery and has been for the last 10 hours
+196,2304434,2304430,1.0,0.0,@AmazonHelp Still showing out for delivery from yesterday.
+196,1561943,1561944,1.0,0.0,"@AmazonHelp Still says out for delivery, last updated at 11:29am yesterday."
+196,2220948,2220950,1.0,0.0,@AmazonHelp It says the same as it has for the last 8 days “out for delivery”
+196,1659007,1659003,1.0,0.0,@AmazonHelp It’s says out for delivery today
+196,332423,332424,1.0,0.0,@AmazonHelp Yes expected on the 5th still showing out for delivery

@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+97,111868,111869,1.0,0.0,@AmazonHelp Says non compatible
+97,238133,238149,1.0,0.0,@AmazonHelp Ain't working
+97,133595,133593,1.0,0.0,@AmazonHelp Yes it still doesnt work
+97,2298800,2298798,1.0,0.0,@AmazonHelp Still doesn’t work
+97,486649,486656,1.0,0.0,@AmazonHelp Leider funktioniert das auch nicht
+97,2335065,2335066,1.0,0.0,@AmazonHelp Does not work.
+97,1637202,1637200,1.0,0.0,"@AmazonHelp Yea, didn't work good at all because it does not search for what you asked it to..."
+97,2624130,2624132,1.0,0.0,@AmazonHelp That didn’t work...please advise

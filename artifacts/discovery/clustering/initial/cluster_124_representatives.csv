@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+124,2162367,2162368,1.0,0.0,@AmazonHelp Yes it is :)
+124,788227,788228,1.0,0.0,"@AmazonHelp As far as im aware, it is."
+124,1760398,1760407,1.0,0.0,"@AmazonHelp /. It is, yes."
+124,2499112,2499113,1.0,0.0,@AmazonHelp Hope it is... Thanks for the reply though
+124,2283505,2283509,1.0,0.0,"@AmazonHelp Yes, they are."
+124,2719972,2719973,1.0,0.0,@AmazonHelp Yes it is (£13.24)
+124,810294,810295,1.0,0.0,"@AmazonHelp It is, it is, it is! Thank you!!"
+124,2849071,2849072,1.0,0.0,@AmazonHelp Absolutely it is.

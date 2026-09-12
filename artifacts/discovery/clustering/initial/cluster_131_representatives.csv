@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+131,1742664,1742666,1.0,0.0,"@AmazonHelp That would be brilliant, thank you KN!"
+131,2700789,2700792,1.0,0.0,"@AmazonHelp Fabulous, thanks v much"
+131,35939,35936,1.0,0.0,"@AmazonHelp Awesome, thank you!"
+131,989584,989585,1.0,0.0,"@AmazonHelp Thanks, that’s brilliant 👍"
+131,810253,810251,1.0,0.0,"@AmazonHelp This is so great, thank you!"
+131,680666,680669,1.0,0.0,@AmazonHelp Great that’s fantastic. Thank you so much!
+131,2507301,2507299,1.0,0.0,@AmazonHelp Great. Thanks.
+131,1725361,1725368,0.8224284622597984,0.17757153774020165,@AmazonHelp That’s great 👍🏽 thanks again!!

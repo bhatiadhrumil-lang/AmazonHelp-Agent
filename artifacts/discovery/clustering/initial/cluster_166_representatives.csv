@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+166,2123813,2123814,1.0,0.0,@AmazonHelp ha ha! I didn’t notice the date!
+166,1041784,1041785,1.0,0.0,@AmazonHelp Honestly don’t know...just know the dates on website haven’t been accurate
+166,219168,219163,1.0,0.0,@AmazonHelp They have changed more than 3 dates already .
+166,482353,482355,1.0,0.0,@AmazonHelp Et ce midi la date a changé
+166,803024,803025,1.0,0.0,@AmazonHelp There is no date. That's why I'm asking.
+166,2601445,2601443,1.0,0.0,@AmazonHelp Il n'y pas de date
+166,842091,842095,1.0,0.0,@AmazonHelp Ninguna no tienen fecha estimada ....
+166,2800384,2780595,1.0,0.0,@AmazonHelp No date specified for either item.

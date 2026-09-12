@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+113,105249,105250,1.0,0.0,"@AmazonHelp Thanks, will do! Cheers"
+113,288993,288998,1.0,0.0,"@AmazonHelp Okay will do, appreciate your assistance. Many thanks Robbie."
+113,1947055,1947062,1.0,0.0,@AmazonHelp Thanks!! Will do.
+113,1408067,1408068,1.0,0.0,"@AmazonHelp Thanks JE, will do!"
+113,1459745,1459743,1.0,0.0,"@AmazonHelp Thank you, will do"
+113,1496033,1496037,1.0,0.0,@AmazonHelp Ok thanks guys! Will do
+113,1238754,1238756,0.8984094913082141,0.10159050869178585,"@AmazonHelp Hi, thanks, I will do :)"
+113,1445410,1445413,0.929750381602629,0.07024961839737096,"@AmazonHelp Thanks a bunch, will do 😊"

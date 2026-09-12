@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+163,1046580,1046577,0.939645241634098,0.2841597554626636,@AmazonHelp How can i reach you through real time chat ? Because my problem is unsolved
+163,1224594,1224585,0.9260020391340095,0.2945534157306084,@AmazonHelp Finally found the chat option (not easy to do. Needs simplifying! ) and being sorted now thanks.
+163,325839,325842,1.0,0.11560415146637484,@AmazonHelp That's fine I used the chat option in the end thank you for your help
+163,2797173,2797174,1.0,0.13051339043408802,@AmazonHelp Waiting for chat rep to come online. Thanks!
+163,2399406,2399407,0.9730164472654492,0.2587369140101716,@AmazonHelp No. Have a look at my chat logs.
+163,629646,629647,0.9205585014745482,0.2987004098903622,@AmazonHelp Ya he solucionado el problema por el chat en vivo. Gracias :3
+163,206180,206188,0.8575227980097988,0.3467222498182873,"@AmazonHelp No, but when I get to a computer I’ll do the chat thing again."
+163,2980964,2980965,0.86852412974453,0.3383412187117701,@AmazonHelp There’s no option to chat...

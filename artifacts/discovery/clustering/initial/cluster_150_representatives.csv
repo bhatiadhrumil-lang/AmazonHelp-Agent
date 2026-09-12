@@ -1,0 +1,9 @@
+cluster_id,customer_message_id,conversation_id,probability,outlier_score,text
+150,1628973,1628974,0.4407363366495134,0.5592636633504866,@AmazonHelp The first one was Carrier: AMZL US. This one is USPS
+150,1210986,1210989,0.4015510942263333,0.5984489057736667,@AmazonHelp It says that the carrier was: AMZL US
+150,945454,945457,0.4851292920018625,0.5148707079981375,@AmazonHelp My carrier was AMZL US
+150,1173899,1173900,0.3812073423111054,0.6187926576888946,"@AmazonHelp Nothing was damaged,thankfully. And the carrier was AMZL US"
+150,745043,745046,0.5057809216170744,0.49421907838292556,"@AmazonHelp AMZL US is the carrier. Last update was at 3am yesterday that it left Chino but no update or anything since. (Yes, 11-12 however I doubt it)"
+150,590812,590813,0.3231387003053302,0.6768612996946698,@AmazonHelp Today's package says #USPS. The #canon #printer says the carrier is #amzlus.
+150,1892133,1892139,0.466177922313006,0.533822077686994,@AmazonHelp Still not here. Carrier is listed as AMZL US
+150,888235,888238,0.7737174127179025,0.2262825872820975,@AmazonHelp The carrier is AMZL US. Luckily no damage!
